@@ -1,0 +1,4766 @@
+10509c10509
+< vertex 9 is in 1 group
+---
+> vertex 9 is in 0 group
+10525c10525
+< vertex 25 is in 0 group
+---
+> vertex 25 is in 1 group
+10536c10536
+< vertex 36 is in 1 group
+---
+> vertex 36 is in 0 group
+10541c10541
+< vertex 41 is in 1 group
+---
+> vertex 41 is in 0 group
+10764,10765c10764,10765
+< vertex 264 is in 1 group
+< vertex 265 is in 1 group
+---
+> vertex 264 is in 0 group
+> vertex 265 is in 0 group
+10768c10768
+< vertex 268 is in 0 group
+---
+> vertex 268 is in 1 group
+10793c10793
+< vertex 293 is in 0 group
+---
+> vertex 293 is in 1 group
+10820c10820
+< vertex 320 is in 1 group
+---
+> vertex 320 is in 0 group
+10822c10822
+< vertex 322 is in 0 group
+---
+> vertex 322 is in 1 group
+10824c10824
+< vertex 324 is in 1 group
+---
+> vertex 324 is in 0 group
+10852c10852
+< vertex 352 is in 1 group
+---
+> vertex 352 is in 0 group
+10865c10865
+< vertex 365 is in 1 group
+---
+> vertex 365 is in 0 group
+10869c10869
+< vertex 369 is in 1 group
+---
+> vertex 369 is in 0 group
+10876c10876
+< vertex 376 is in 1 group
+---
+> vertex 376 is in 0 group
+10890c10890
+< vertex 390 is in 0 group
+---
+> vertex 390 is in 1 group
+10892c10892
+< vertex 392 is in 1 group
+---
+> vertex 392 is in 0 group
+10900c10900
+< vertex 400 is in 0 group
+---
+> vertex 400 is in 1 group
+10907c10907
+< vertex 407 is in 0 group
+---
+> vertex 407 is in 1 group
+10920c10920
+< vertex 420 is in 1 group
+---
+> vertex 420 is in 0 group
+11005,11006c11005,11006
+< vertex 505 is in 1 group
+< vertex 506 is in 1 group
+---
+> vertex 505 is in 0 group
+> vertex 506 is in 0 group
+11029c11029
+< vertex 529 is in 0 group
+---
+> vertex 529 is in 1 group
+11041c11041
+< vertex 541 is in 1 group
+---
+> vertex 541 is in 0 group
+11043c11043
+< vertex 543 is in 0 group
+---
+> vertex 543 is in 1 group
+11047c11047
+< vertex 547 is in 1 group
+---
+> vertex 547 is in 0 group
+11060c11060
+< vertex 560 is in 1 group
+---
+> vertex 560 is in 0 group
+11071c11071
+< vertex 571 is in 1 group
+---
+> vertex 571 is in 0 group
+11082c11082
+< vertex 582 is in 1 group
+---
+> vertex 582 is in 0 group
+11085c11085
+< vertex 585 is in 1 group
+---
+> vertex 585 is in 0 group
+11089c11089
+< vertex 589 is in 1 group
+---
+> vertex 589 is in 0 group
+11091c11091
+< vertex 591 is in 1 group
+---
+> vertex 591 is in 0 group
+11095c11095
+< vertex 595 is in 1 group
+---
+> vertex 595 is in 0 group
+11099c11099
+< vertex 599 is in 1 group
+---
+> vertex 599 is in 0 group
+11115c11115
+< vertex 615 is in 0 group
+---
+> vertex 615 is in 1 group
+11118c11118
+< vertex 618 is in 1 group
+---
+> vertex 618 is in 0 group
+11128c11128
+< vertex 628 is in 1 group
+---
+> vertex 628 is in 0 group
+11130c11130
+< vertex 630 is in 0 group
+---
+> vertex 630 is in 1 group
+11136c11136
+< vertex 636 is in 1 group
+---
+> vertex 636 is in 0 group
+11138,11139c11138,11139
+< vertex 638 is in 1 group
+< vertex 639 is in 1 group
+---
+> vertex 638 is in 0 group
+> vertex 639 is in 0 group
+11162c11162
+< vertex 662 is in 1 group
+---
+> vertex 662 is in 0 group
+11164c11164
+< vertex 664 is in 0 group
+---
+> vertex 664 is in 1 group
+11169c11169
+< vertex 669 is in 1 group
+---
+> vertex 669 is in 0 group
+11180c11180
+< vertex 680 is in 0 group
+---
+> vertex 680 is in 1 group
+11189c11189
+< vertex 689 is in 0 group
+---
+> vertex 689 is in 1 group
+11202c11202
+< vertex 702 is in 0 group
+---
+> vertex 702 is in 1 group
+11205,11206c11205,11206
+< vertex 705 is in 0 group
+< vertex 706 is in 0 group
+---
+> vertex 705 is in 1 group
+> vertex 706 is in 1 group
+11210c11210
+< vertex 710 is in 0 group
+---
+> vertex 710 is in 1 group
+11218c11218
+< vertex 718 is in 1 group
+---
+> vertex 718 is in 0 group
+11245c11245
+< vertex 745 is in 1 group
+---
+> vertex 745 is in 0 group
+11257,11258c11257,11258
+< vertex 757 is in 0 group
+< vertex 758 is in 0 group
+---
+> vertex 757 is in 1 group
+> vertex 758 is in 1 group
+11260c11260
+< vertex 760 is in 0 group
+---
+> vertex 760 is in 1 group
+11276c11276
+< vertex 776 is in 0 group
+---
+> vertex 776 is in 1 group
+11285,11286c11285,11286
+< vertex 785 is in 0 group
+< vertex 786 is in 0 group
+---
+> vertex 785 is in 1 group
+> vertex 786 is in 1 group
+11292c11292
+< vertex 792 is in 0 group
+---
+> vertex 792 is in 1 group
+11294,11296c11294,11296
+< vertex 794 is in 0 group
+< vertex 795 is in 0 group
+< vertex 796 is in 0 group
+---
+> vertex 794 is in 1 group
+> vertex 795 is in 1 group
+> vertex 796 is in 1 group
+11306c11306
+< vertex 806 is in 0 group
+---
+> vertex 806 is in 1 group
+11314c11314
+< vertex 814 is in 0 group
+---
+> vertex 814 is in 1 group
+11318c11318
+< vertex 818 is in 0 group
+---
+> vertex 818 is in 1 group
+11321c11321
+< vertex 821 is in 0 group
+---
+> vertex 821 is in 1 group
+11332c11332
+< vertex 832 is in 0 group
+---
+> vertex 832 is in 1 group
+11334,11337c11334,11337
+< vertex 834 is in 0 group
+< vertex 835 is in 0 group
+< vertex 836 is in 0 group
+< vertex 837 is in 0 group
+---
+> vertex 834 is in 1 group
+> vertex 835 is in 1 group
+> vertex 836 is in 1 group
+> vertex 837 is in 1 group
+11341c11341
+< vertex 841 is in 0 group
+---
+> vertex 841 is in 1 group
+11345c11345
+< vertex 845 is in 0 group
+---
+> vertex 845 is in 1 group
+11350c11350
+< vertex 850 is in 0 group
+---
+> vertex 850 is in 1 group
+11359c11359
+< vertex 859 is in 0 group
+---
+> vertex 859 is in 1 group
+11379c11379
+< vertex 879 is in 0 group
+---
+> vertex 879 is in 1 group
+11381c11381
+< vertex 881 is in 1 group
+---
+> vertex 881 is in 0 group
+11388c11388
+< vertex 888 is in 0 group
+---
+> vertex 888 is in 1 group
+11390c11390
+< vertex 890 is in 0 group
+---
+> vertex 890 is in 1 group
+11395,11396c11395,11396
+< vertex 895 is in 1 group
+< vertex 896 is in 0 group
+---
+> vertex 895 is in 0 group
+> vertex 896 is in 1 group
+11398,11399c11398,11399
+< vertex 898 is in 0 group
+< vertex 899 is in 0 group
+---
+> vertex 898 is in 1 group
+> vertex 899 is in 1 group
+11403c11403
+< vertex 903 is in 0 group
+---
+> vertex 903 is in 1 group
+11419c11419
+< vertex 919 is in 0 group
+---
+> vertex 919 is in 1 group
+11423,11424c11423,11424
+< vertex 923 is in 0 group
+< vertex 924 is in 1 group
+---
+> vertex 923 is in 1 group
+> vertex 924 is in 0 group
+11426c11426
+< vertex 926 is in 0 group
+---
+> vertex 926 is in 1 group
+11433c11433
+< vertex 933 is in 0 group
+---
+> vertex 933 is in 1 group
+11435c11435
+< vertex 935 is in 0 group
+---
+> vertex 935 is in 1 group
+11438,11441c11438,11441
+< vertex 938 is in 0 group
+< vertex 939 is in 0 group
+< vertex 940 is in 0 group
+< vertex 941 is in 1 group
+---
+> vertex 938 is in 1 group
+> vertex 939 is in 1 group
+> vertex 940 is in 1 group
+> vertex 941 is in 0 group
+11447c11447
+< vertex 947 is in 0 group
+---
+> vertex 947 is in 1 group
+11456c11456
+< vertex 956 is in 1 group
+---
+> vertex 956 is in 0 group
+11463c11463
+< vertex 963 is in 1 group
+---
+> vertex 963 is in 0 group
+11466c11466
+< vertex 966 is in 1 group
+---
+> vertex 966 is in 0 group
+11474c11474
+< vertex 974 is in 0 group
+---
+> vertex 974 is in 1 group
+11480c11480
+< vertex 980 is in 0 group
+---
+> vertex 980 is in 1 group
+11483c11483
+< vertex 983 is in 1 group
+---
+> vertex 983 is in 0 group
+11485c11485
+< vertex 985 is in 1 group
+---
+> vertex 985 is in 0 group
+11487c11487
+< vertex 987 is in 0 group
+---
+> vertex 987 is in 1 group
+11495c11495
+< vertex 995 is in 0 group
+---
+> vertex 995 is in 1 group
+11500c11500
+< vertex 1000 is in 1 group
+---
+> vertex 1000 is in 0 group
+11505c11505
+< vertex 1005 is in 0 group
+---
+> vertex 1005 is in 1 group
+11507c11507
+< vertex 1007 is in 1 group
+---
+> vertex 1007 is in 0 group
+11510c11510
+< vertex 1010 is in 0 group
+---
+> vertex 1010 is in 1 group
+11521c11521
+< vertex 1021 is in 1 group
+---
+> vertex 1021 is in 0 group
+11523,11524c11523,11524
+< vertex 1023 is in 0 group
+< vertex 1024 is in 0 group
+---
+> vertex 1023 is in 1 group
+> vertex 1024 is in 1 group
+11527,11528c11527,11528
+< vertex 1027 is in 1 group
+< vertex 1028 is in 1 group
+---
+> vertex 1027 is in 0 group
+> vertex 1028 is in 0 group
+11530,11531c11530,11531
+< vertex 1030 is in 0 group
+< vertex 1031 is in 0 group
+---
+> vertex 1030 is in 1 group
+> vertex 1031 is in 1 group
+11538,11539c11538,11539
+< vertex 1038 is in 0 group
+< vertex 1039 is in 0 group
+---
+> vertex 1038 is in 1 group
+> vertex 1039 is in 1 group
+11543c11543
+< vertex 1043 is in 1 group
+---
+> vertex 1043 is in 0 group
+11545c11545
+< vertex 1045 is in 1 group
+---
+> vertex 1045 is in 0 group
+11547,11548c11547,11548
+< vertex 1047 is in 0 group
+< vertex 1048 is in 0 group
+---
+> vertex 1047 is in 1 group
+> vertex 1048 is in 1 group
+11551,11552c11551,11552
+< vertex 1051 is in 0 group
+< vertex 1052 is in 0 group
+---
+> vertex 1051 is in 1 group
+> vertex 1052 is in 1 group
+11554c11554
+< vertex 1054 is in 1 group
+---
+> vertex 1054 is in 0 group
+11557c11557
+< vertex 1057 is in 0 group
+---
+> vertex 1057 is in 1 group
+11560,11565c11560,11565
+< vertex 1060 is in 0 group
+< vertex 1061 is in 0 group
+< vertex 1062 is in 0 group
+< vertex 1063 is in 0 group
+< vertex 1064 is in 0 group
+< vertex 1065 is in 0 group
+---
+> vertex 1060 is in 1 group
+> vertex 1061 is in 1 group
+> vertex 1062 is in 1 group
+> vertex 1063 is in 1 group
+> vertex 1064 is in 1 group
+> vertex 1065 is in 1 group
+11567,11570c11567,11570
+< vertex 1067 is in 0 group
+< vertex 1068 is in 0 group
+< vertex 1069 is in 0 group
+< vertex 1070 is in 0 group
+---
+> vertex 1067 is in 1 group
+> vertex 1068 is in 1 group
+> vertex 1069 is in 1 group
+> vertex 1070 is in 1 group
+11572,11576c11572,11576
+< vertex 1072 is in 0 group
+< vertex 1073 is in 0 group
+< vertex 1074 is in 0 group
+< vertex 1075 is in 0 group
+< vertex 1076 is in 0 group
+---
+> vertex 1072 is in 1 group
+> vertex 1073 is in 1 group
+> vertex 1074 is in 1 group
+> vertex 1075 is in 1 group
+> vertex 1076 is in 1 group
+11578,11581c11578,11581
+< vertex 1078 is in 0 group
+< vertex 1079 is in 0 group
+< vertex 1080 is in 0 group
+< vertex 1081 is in 0 group
+---
+> vertex 1078 is in 1 group
+> vertex 1079 is in 1 group
+> vertex 1080 is in 1 group
+> vertex 1081 is in 1 group
+11584c11584
+< vertex 1084 is in 0 group
+---
+> vertex 1084 is in 1 group
+11587,11589c11587,11589
+< vertex 1087 is in 0 group
+< vertex 1088 is in 0 group
+< vertex 1089 is in 0 group
+---
+> vertex 1087 is in 1 group
+> vertex 1088 is in 1 group
+> vertex 1089 is in 1 group
+11593,11600c11593,11600
+< vertex 1093 is in 0 group
+< vertex 1094 is in 0 group
+< vertex 1095 is in 0 group
+< vertex 1096 is in 0 group
+< vertex 1097 is in 0 group
+< vertex 1098 is in 0 group
+< vertex 1099 is in 0 group
+< vertex 1100 is in 0 group
+---
+> vertex 1093 is in 1 group
+> vertex 1094 is in 1 group
+> vertex 1095 is in 1 group
+> vertex 1096 is in 1 group
+> vertex 1097 is in 1 group
+> vertex 1098 is in 1 group
+> vertex 1099 is in 1 group
+> vertex 1100 is in 1 group
+11603c11603
+< vertex 1103 is in 0 group
+---
+> vertex 1103 is in 1 group
+11607,11613c11607,11613
+< vertex 1107 is in 0 group
+< vertex 1108 is in 0 group
+< vertex 1109 is in 0 group
+< vertex 1110 is in 0 group
+< vertex 1111 is in 0 group
+< vertex 1112 is in 0 group
+< vertex 1113 is in 0 group
+---
+> vertex 1107 is in 1 group
+> vertex 1108 is in 1 group
+> vertex 1109 is in 1 group
+> vertex 1110 is in 1 group
+> vertex 1111 is in 1 group
+> vertex 1112 is in 1 group
+> vertex 1113 is in 1 group
+11615,11617c11615,11617
+< vertex 1115 is in 1 group
+< vertex 1116 is in 1 group
+< vertex 1117 is in 0 group
+---
+> vertex 1115 is in 0 group
+> vertex 1116 is in 0 group
+> vertex 1117 is in 1 group
+11619,11627c11619,11627
+< vertex 1119 is in 0 group
+< vertex 1120 is in 0 group
+< vertex 1121 is in 0 group
+< vertex 1122 is in 0 group
+< vertex 1123 is in 0 group
+< vertex 1124 is in 0 group
+< vertex 1125 is in 0 group
+< vertex 1126 is in 0 group
+< vertex 1127 is in 0 group
+---
+> vertex 1119 is in 1 group
+> vertex 1120 is in 1 group
+> vertex 1121 is in 1 group
+> vertex 1122 is in 1 group
+> vertex 1123 is in 1 group
+> vertex 1124 is in 1 group
+> vertex 1125 is in 1 group
+> vertex 1126 is in 1 group
+> vertex 1127 is in 1 group
+11630c11630
+< vertex 1130 is in 0 group
+---
+> vertex 1130 is in 1 group
+11632,11634c11632,11634
+< vertex 1132 is in 0 group
+< vertex 1133 is in 0 group
+< vertex 1134 is in 0 group
+---
+> vertex 1132 is in 1 group
+> vertex 1133 is in 1 group
+> vertex 1134 is in 1 group
+11636,11638c11636,11638
+< vertex 1136 is in 0 group
+< vertex 1137 is in 0 group
+< vertex 1138 is in 0 group
+---
+> vertex 1136 is in 1 group
+> vertex 1137 is in 1 group
+> vertex 1138 is in 1 group
+11640,11641c11640,11641
+< vertex 1140 is in 0 group
+< vertex 1141 is in 0 group
+---
+> vertex 1140 is in 1 group
+> vertex 1141 is in 1 group
+11643c11643
+< vertex 1143 is in 0 group
+---
+> vertex 1143 is in 1 group
+11645c11645
+< vertex 1145 is in 0 group
+---
+> vertex 1145 is in 1 group
+11648c11648
+< vertex 1148 is in 0 group
+---
+> vertex 1148 is in 1 group
+11659c11659
+< vertex 1159 is in 0 group
+---
+> vertex 1159 is in 1 group
+11662c11662
+< vertex 1162 is in 0 group
+---
+> vertex 1162 is in 1 group
+11666c11666
+< vertex 1166 is in 0 group
+---
+> vertex 1166 is in 1 group
+11668,11669c11668,11669
+< vertex 1168 is in 0 group
+< vertex 1169 is in 0 group
+---
+> vertex 1168 is in 1 group
+> vertex 1169 is in 1 group
+11675c11675
+< vertex 1175 is in 0 group
+---
+> vertex 1175 is in 1 group
+11677c11677
+< vertex 1177 is in 0 group
+---
+> vertex 1177 is in 1 group
+11679,11680c11679,11680
+< vertex 1179 is in 0 group
+< vertex 1180 is in 0 group
+---
+> vertex 1179 is in 1 group
+> vertex 1180 is in 1 group
+11682,11683c11682,11683
+< vertex 1182 is in 0 group
+< vertex 1183 is in 0 group
+---
+> vertex 1182 is in 1 group
+> vertex 1183 is in 1 group
+11685c11685
+< vertex 1185 is in 0 group
+---
+> vertex 1185 is in 1 group
+11692c11692
+< vertex 1192 is in 0 group
+---
+> vertex 1192 is in 1 group
+11694,11695c11694,11695
+< vertex 1194 is in 0 group
+< vertex 1195 is in 0 group
+---
+> vertex 1194 is in 1 group
+> vertex 1195 is in 1 group
+11698,11702c11698,11702
+< vertex 1198 is in 0 group
+< vertex 1199 is in 0 group
+< vertex 1200 is in 0 group
+< vertex 1201 is in 0 group
+< vertex 1202 is in 0 group
+---
+> vertex 1198 is in 1 group
+> vertex 1199 is in 1 group
+> vertex 1200 is in 1 group
+> vertex 1201 is in 1 group
+> vertex 1202 is in 1 group
+11704c11704
+< vertex 1204 is in 0 group
+---
+> vertex 1204 is in 1 group
+11707,11708c11707,11708
+< vertex 1207 is in 0 group
+< vertex 1208 is in 0 group
+---
+> vertex 1207 is in 1 group
+> vertex 1208 is in 1 group
+11710c11710
+< vertex 1210 is in 0 group
+---
+> vertex 1210 is in 1 group
+11719c11719
+< vertex 1219 is in 1 group
+---
+> vertex 1219 is in 0 group
+11721c11721
+< vertex 1221 is in 0 group
+---
+> vertex 1221 is in 1 group
+11729,11730c11729,11730
+< vertex 1229 is in 0 group
+< vertex 1230 is in 0 group
+---
+> vertex 1229 is in 1 group
+> vertex 1230 is in 1 group
+11737c11737
+< vertex 1237 is in 0 group
+---
+> vertex 1237 is in 1 group
+11739c11739
+< vertex 1239 is in 0 group
+---
+> vertex 1239 is in 1 group
+11741c11741
+< vertex 1241 is in 0 group
+---
+> vertex 1241 is in 1 group
+11743,11744c11743,11744
+< vertex 1243 is in 0 group
+< vertex 1244 is in 1 group
+---
+> vertex 1243 is in 1 group
+> vertex 1244 is in 0 group
+11749c11749
+< vertex 1249 is in 0 group
+---
+> vertex 1249 is in 1 group
+11754,11755c11754,11755
+< vertex 1254 is in 0 group
+< vertex 1255 is in 0 group
+---
+> vertex 1254 is in 1 group
+> vertex 1255 is in 1 group
+11760c11760
+< vertex 1260 is in 1 group
+---
+> vertex 1260 is in 0 group
+11762c11762
+< vertex 1262 is in 1 group
+---
+> vertex 1262 is in 0 group
+11769c11769
+< vertex 1269 is in 0 group
+---
+> vertex 1269 is in 1 group
+11774c11774
+< vertex 1274 is in 0 group
+---
+> vertex 1274 is in 1 group
+11777c11777
+< vertex 1277 is in 0 group
+---
+> vertex 1277 is in 1 group
+11782c11782
+< vertex 1282 is in 0 group
+---
+> vertex 1282 is in 1 group
+11784,11788c11784,11788
+< vertex 1284 is in 0 group
+< vertex 1285 is in 0 group
+< vertex 1286 is in 0 group
+< vertex 1287 is in 0 group
+< vertex 1288 is in 0 group
+---
+> vertex 1284 is in 1 group
+> vertex 1285 is in 1 group
+> vertex 1286 is in 1 group
+> vertex 1287 is in 1 group
+> vertex 1288 is in 1 group
+11790c11790
+< vertex 1290 is in 0 group
+---
+> vertex 1290 is in 1 group
+11792,11794c11792,11794
+< vertex 1292 is in 0 group
+< vertex 1293 is in 0 group
+< vertex 1294 is in 0 group
+---
+> vertex 1292 is in 1 group
+> vertex 1293 is in 1 group
+> vertex 1294 is in 1 group
+11796,11801c11796,11801
+< vertex 1296 is in 0 group
+< vertex 1297 is in 0 group
+< vertex 1298 is in 0 group
+< vertex 1299 is in 0 group
+< vertex 1300 is in 0 group
+< vertex 1301 is in 0 group
+---
+> vertex 1296 is in 1 group
+> vertex 1297 is in 1 group
+> vertex 1298 is in 1 group
+> vertex 1299 is in 1 group
+> vertex 1300 is in 1 group
+> vertex 1301 is in 1 group
+11806c11806
+< vertex 1306 is in 0 group
+---
+> vertex 1306 is in 1 group
+11808,11809c11808,11809
+< vertex 1308 is in 0 group
+< vertex 1309 is in 0 group
+---
+> vertex 1308 is in 1 group
+> vertex 1309 is in 1 group
+11811c11811
+< vertex 1311 is in 0 group
+---
+> vertex 1311 is in 1 group
+11818,11824c11818,11824
+< vertex 1318 is in 0 group
+< vertex 1319 is in 0 group
+< vertex 1320 is in 0 group
+< vertex 1321 is in 0 group
+< vertex 1322 is in 0 group
+< vertex 1323 is in 0 group
+< vertex 1324 is in 0 group
+---
+> vertex 1318 is in 1 group
+> vertex 1319 is in 1 group
+> vertex 1320 is in 1 group
+> vertex 1321 is in 1 group
+> vertex 1322 is in 1 group
+> vertex 1323 is in 1 group
+> vertex 1324 is in 1 group
+11827c11827
+< vertex 1327 is in 1 group
+---
+> vertex 1327 is in 0 group
+11831c11831
+< vertex 1331 is in 0 group
+---
+> vertex 1331 is in 1 group
+11834c11834
+< vertex 1334 is in 0 group
+---
+> vertex 1334 is in 1 group
+11839,11855c11839,11855
+< vertex 1339 is in 0 group
+< vertex 1340 is in 0 group
+< vertex 1341 is in 0 group
+< vertex 1342 is in 0 group
+< vertex 1343 is in 0 group
+< vertex 1344 is in 0 group
+< vertex 1345 is in 0 group
+< vertex 1346 is in 0 group
+< vertex 1347 is in 0 group
+< vertex 1348 is in 0 group
+< vertex 1349 is in 0 group
+< vertex 1350 is in 0 group
+< vertex 1351 is in 0 group
+< vertex 1352 is in 0 group
+< vertex 1353 is in 0 group
+< vertex 1354 is in 0 group
+< vertex 1355 is in 0 group
+---
+> vertex 1339 is in 1 group
+> vertex 1340 is in 1 group
+> vertex 1341 is in 1 group
+> vertex 1342 is in 1 group
+> vertex 1343 is in 1 group
+> vertex 1344 is in 1 group
+> vertex 1345 is in 1 group
+> vertex 1346 is in 1 group
+> vertex 1347 is in 1 group
+> vertex 1348 is in 1 group
+> vertex 1349 is in 1 group
+> vertex 1350 is in 1 group
+> vertex 1351 is in 1 group
+> vertex 1352 is in 1 group
+> vertex 1353 is in 1 group
+> vertex 1354 is in 1 group
+> vertex 1355 is in 1 group
+11857,11868c11857,11868
+< vertex 1357 is in 0 group
+< vertex 1358 is in 0 group
+< vertex 1359 is in 0 group
+< vertex 1360 is in 0 group
+< vertex 1361 is in 0 group
+< vertex 1362 is in 0 group
+< vertex 1363 is in 0 group
+< vertex 1364 is in 0 group
+< vertex 1365 is in 0 group
+< vertex 1366 is in 0 group
+< vertex 1367 is in 0 group
+< vertex 1368 is in 0 group
+---
+> vertex 1357 is in 1 group
+> vertex 1358 is in 1 group
+> vertex 1359 is in 1 group
+> vertex 1360 is in 1 group
+> vertex 1361 is in 1 group
+> vertex 1362 is in 1 group
+> vertex 1363 is in 1 group
+> vertex 1364 is in 1 group
+> vertex 1365 is in 1 group
+> vertex 1366 is in 1 group
+> vertex 1367 is in 1 group
+> vertex 1368 is in 1 group
+11870,11875c11870,11875
+< vertex 1370 is in 0 group
+< vertex 1371 is in 0 group
+< vertex 1372 is in 0 group
+< vertex 1373 is in 0 group
+< vertex 1374 is in 0 group
+< vertex 1375 is in 0 group
+---
+> vertex 1370 is in 1 group
+> vertex 1371 is in 1 group
+> vertex 1372 is in 1 group
+> vertex 1373 is in 1 group
+> vertex 1374 is in 1 group
+> vertex 1375 is in 1 group
+11882,11889c11882,11889
+< vertex 1382 is in 0 group
+< vertex 1383 is in 0 group
+< vertex 1384 is in 0 group
+< vertex 1385 is in 0 group
+< vertex 1386 is in 0 group
+< vertex 1387 is in 0 group
+< vertex 1388 is in 0 group
+< vertex 1389 is in 0 group
+---
+> vertex 1382 is in 1 group
+> vertex 1383 is in 1 group
+> vertex 1384 is in 1 group
+> vertex 1385 is in 1 group
+> vertex 1386 is in 1 group
+> vertex 1387 is in 1 group
+> vertex 1388 is in 1 group
+> vertex 1389 is in 1 group
+11891,11892c11891,11892
+< vertex 1391 is in 0 group
+< vertex 1392 is in 0 group
+---
+> vertex 1391 is in 1 group
+> vertex 1392 is in 1 group
+11894,11929c11894,11929
+< vertex 1394 is in 0 group
+< vertex 1395 is in 0 group
+< vertex 1396 is in 0 group
+< vertex 1397 is in 0 group
+< vertex 1398 is in 0 group
+< vertex 1399 is in 0 group
+< vertex 1400 is in 0 group
+< vertex 1401 is in 0 group
+< vertex 1402 is in 0 group
+< vertex 1403 is in 0 group
+< vertex 1404 is in 0 group
+< vertex 1405 is in 0 group
+< vertex 1406 is in 0 group
+< vertex 1407 is in 0 group
+< vertex 1408 is in 0 group
+< vertex 1409 is in 0 group
+< vertex 1410 is in 0 group
+< vertex 1411 is in 0 group
+< vertex 1412 is in 0 group
+< vertex 1413 is in 0 group
+< vertex 1414 is in 0 group
+< vertex 1415 is in 0 group
+< vertex 1416 is in 0 group
+< vertex 1417 is in 0 group
+< vertex 1418 is in 0 group
+< vertex 1419 is in 0 group
+< vertex 1420 is in 0 group
+< vertex 1421 is in 0 group
+< vertex 1422 is in 0 group
+< vertex 1423 is in 0 group
+< vertex 1424 is in 0 group
+< vertex 1425 is in 0 group
+< vertex 1426 is in 0 group
+< vertex 1427 is in 0 group
+< vertex 1428 is in 0 group
+< vertex 1429 is in 0 group
+---
+> vertex 1394 is in 1 group
+> vertex 1395 is in 1 group
+> vertex 1396 is in 1 group
+> vertex 1397 is in 1 group
+> vertex 1398 is in 1 group
+> vertex 1399 is in 1 group
+> vertex 1400 is in 1 group
+> vertex 1401 is in 1 group
+> vertex 1402 is in 1 group
+> vertex 1403 is in 1 group
+> vertex 1404 is in 1 group
+> vertex 1405 is in 1 group
+> vertex 1406 is in 1 group
+> vertex 1407 is in 1 group
+> vertex 1408 is in 1 group
+> vertex 1409 is in 1 group
+> vertex 1410 is in 1 group
+> vertex 1411 is in 1 group
+> vertex 1412 is in 1 group
+> vertex 1413 is in 1 group
+> vertex 1414 is in 1 group
+> vertex 1415 is in 1 group
+> vertex 1416 is in 1 group
+> vertex 1417 is in 1 group
+> vertex 1418 is in 1 group
+> vertex 1419 is in 1 group
+> vertex 1420 is in 1 group
+> vertex 1421 is in 1 group
+> vertex 1422 is in 1 group
+> vertex 1423 is in 1 group
+> vertex 1424 is in 1 group
+> vertex 1425 is in 1 group
+> vertex 1426 is in 1 group
+> vertex 1427 is in 1 group
+> vertex 1428 is in 1 group
+> vertex 1429 is in 1 group
+11932c11932
+< vertex 1432 is in 0 group
+---
+> vertex 1432 is in 1 group
+11935,11938c11935,11938
+< vertex 1435 is in 0 group
+< vertex 1436 is in 0 group
+< vertex 1437 is in 0 group
+< vertex 1438 is in 0 group
+---
+> vertex 1435 is in 1 group
+> vertex 1436 is in 1 group
+> vertex 1437 is in 1 group
+> vertex 1438 is in 1 group
+11940c11940
+< vertex 1440 is in 0 group
+---
+> vertex 1440 is in 1 group
+11942,11945c11942,11945
+< vertex 1442 is in 0 group
+< vertex 1443 is in 0 group
+< vertex 1444 is in 0 group
+< vertex 1445 is in 0 group
+---
+> vertex 1442 is in 1 group
+> vertex 1443 is in 1 group
+> vertex 1444 is in 1 group
+> vertex 1445 is in 1 group
+11948c11948
+< vertex 1448 is in 0 group
+---
+> vertex 1448 is in 1 group
+11950,11956c11950,11956
+< vertex 1450 is in 0 group
+< vertex 1451 is in 0 group
+< vertex 1452 is in 0 group
+< vertex 1453 is in 0 group
+< vertex 1454 is in 0 group
+< vertex 1455 is in 0 group
+< vertex 1456 is in 0 group
+---
+> vertex 1450 is in 1 group
+> vertex 1451 is in 1 group
+> vertex 1452 is in 1 group
+> vertex 1453 is in 1 group
+> vertex 1454 is in 1 group
+> vertex 1455 is in 1 group
+> vertex 1456 is in 1 group
+11958c11958
+< vertex 1458 is in 0 group
+---
+> vertex 1458 is in 1 group
+11960c11960
+< vertex 1460 is in 0 group
+---
+> vertex 1460 is in 1 group
+11963,11964c11963,11964
+< vertex 1463 is in 0 group
+< vertex 1464 is in 0 group
+---
+> vertex 1463 is in 1 group
+> vertex 1464 is in 1 group
+11966,11967c11966,11967
+< vertex 1466 is in 0 group
+< vertex 1467 is in 0 group
+---
+> vertex 1466 is in 1 group
+> vertex 1467 is in 1 group
+11969c11969
+< vertex 1469 is in 1 group
+---
+> vertex 1469 is in 0 group
+11973,11974c11973,11974
+< vertex 1473 is in 0 group
+< vertex 1474 is in 0 group
+---
+> vertex 1473 is in 1 group
+> vertex 1474 is in 1 group
+11976,11977c11976,11977
+< vertex 1476 is in 0 group
+< vertex 1477 is in 1 group
+---
+> vertex 1476 is in 1 group
+> vertex 1477 is in 0 group
+11980c11980
+< vertex 1480 is in 1 group
+---
+> vertex 1480 is in 0 group
+11983c11983
+< vertex 1483 is in 1 group
+---
+> vertex 1483 is in 0 group
+11992c11992
+< vertex 1492 is in 0 group
+---
+> vertex 1492 is in 1 group
+11994c11994
+< vertex 1494 is in 1 group
+---
+> vertex 1494 is in 0 group
+11999c11999
+< vertex 1499 is in 1 group
+---
+> vertex 1499 is in 0 group
+12003c12003
+< vertex 1503 is in 0 group
+---
+> vertex 1503 is in 1 group
+12006c12006
+< vertex 1506 is in 0 group
+---
+> vertex 1506 is in 1 group
+12010c12010
+< vertex 1510 is in 0 group
+---
+> vertex 1510 is in 1 group
+12014c12014
+< vertex 1514 is in 0 group
+---
+> vertex 1514 is in 1 group
+12020c12020
+< vertex 1520 is in 0 group
+---
+> vertex 1520 is in 1 group
+12023c12023
+< vertex 1523 is in 0 group
+---
+> vertex 1523 is in 1 group
+12027c12027
+< vertex 1527 is in 0 group
+---
+> vertex 1527 is in 1 group
+12029c12029
+< vertex 1529 is in 0 group
+---
+> vertex 1529 is in 1 group
+12037,12038c12037,12038
+< vertex 1537 is in 0 group
+< vertex 1538 is in 0 group
+---
+> vertex 1537 is in 1 group
+> vertex 1538 is in 1 group
+12042,12045c12042,12045
+< vertex 1542 is in 0 group
+< vertex 1543 is in 0 group
+< vertex 1544 is in 0 group
+< vertex 1545 is in 0 group
+---
+> vertex 1542 is in 1 group
+> vertex 1543 is in 1 group
+> vertex 1544 is in 1 group
+> vertex 1545 is in 1 group
+12047,12049c12047,12049
+< vertex 1547 is in 0 group
+< vertex 1548 is in 0 group
+< vertex 1549 is in 0 group
+---
+> vertex 1547 is in 1 group
+> vertex 1548 is in 1 group
+> vertex 1549 is in 1 group
+12051,12052c12051,12052
+< vertex 1551 is in 0 group
+< vertex 1552 is in 0 group
+---
+> vertex 1551 is in 1 group
+> vertex 1552 is in 1 group
+12055c12055
+< vertex 1555 is in 0 group
+---
+> vertex 1555 is in 1 group
+12058c12058
+< vertex 1558 is in 0 group
+---
+> vertex 1558 is in 1 group
+12063c12063
+< vertex 1563 is in 0 group
+---
+> vertex 1563 is in 1 group
+12067c12067
+< vertex 1567 is in 0 group
+---
+> vertex 1567 is in 1 group
+12069,12070c12069,12070
+< vertex 1569 is in 0 group
+< vertex 1570 is in 0 group
+---
+> vertex 1569 is in 1 group
+> vertex 1570 is in 1 group
+12072c12072
+< vertex 1572 is in 0 group
+---
+> vertex 1572 is in 1 group
+12076c12076
+< vertex 1576 is in 0 group
+---
+> vertex 1576 is in 1 group
+12079c12079
+< vertex 1579 is in 0 group
+---
+> vertex 1579 is in 1 group
+12104,12105c12104,12105
+< vertex 1604 is in 1 group
+< vertex 1605 is in 1 group
+---
+> vertex 1604 is in 0 group
+> vertex 1605 is in 0 group
+12107,12114c12107,12114
+< vertex 1607 is in 1 group
+< vertex 1608 is in 1 group
+< vertex 1609 is in 1 group
+< vertex 1610 is in 1 group
+< vertex 1611 is in 1 group
+< vertex 1612 is in 1 group
+< vertex 1613 is in 1 group
+< vertex 1614 is in 1 group
+---
+> vertex 1607 is in 0 group
+> vertex 1608 is in 0 group
+> vertex 1609 is in 0 group
+> vertex 1610 is in 0 group
+> vertex 1611 is in 0 group
+> vertex 1612 is in 0 group
+> vertex 1613 is in 0 group
+> vertex 1614 is in 0 group
+12117,12120c12117,12120
+< vertex 1617 is in 1 group
+< vertex 1618 is in 1 group
+< vertex 1619 is in 1 group
+< vertex 1620 is in 1 group
+---
+> vertex 1617 is in 0 group
+> vertex 1618 is in 0 group
+> vertex 1619 is in 0 group
+> vertex 1620 is in 0 group
+12124,12125c12124,12125
+< vertex 1624 is in 1 group
+< vertex 1625 is in 1 group
+---
+> vertex 1624 is in 0 group
+> vertex 1625 is in 0 group
+12127c12127
+< vertex 1627 is in 1 group
+---
+> vertex 1627 is in 0 group
+12130c12130
+< vertex 1630 is in 1 group
+---
+> vertex 1630 is in 0 group
+12136c12136
+< vertex 1636 is in 1 group
+---
+> vertex 1636 is in 0 group
+12138c12138
+< vertex 1638 is in 1 group
+---
+> vertex 1638 is in 0 group
+12140,12141c12140,12141
+< vertex 1640 is in 0 group
+< vertex 1641 is in 0 group
+---
+> vertex 1640 is in 1 group
+> vertex 1641 is in 1 group
+12144c12144
+< vertex 1644 is in 1 group
+---
+> vertex 1644 is in 0 group
+12149c12149
+< vertex 1649 is in 1 group
+---
+> vertex 1649 is in 0 group
+12154c12154
+< vertex 1654 is in 1 group
+---
+> vertex 1654 is in 0 group
+12158c12158
+< vertex 1658 is in 0 group
+---
+> vertex 1658 is in 1 group
+12161c12161
+< vertex 1661 is in 0 group
+---
+> vertex 1661 is in 1 group
+12164,12165c12164,12165
+< vertex 1664 is in 1 group
+< vertex 1665 is in 0 group
+---
+> vertex 1664 is in 0 group
+> vertex 1665 is in 1 group
+12171,12172c12171,12172
+< vertex 1671 is in 1 group
+< vertex 1672 is in 1 group
+---
+> vertex 1671 is in 0 group
+> vertex 1672 is in 0 group
+12174,12176c12174,12176
+< vertex 1674 is in 1 group
+< vertex 1675 is in 1 group
+< vertex 1676 is in 0 group
+---
+> vertex 1674 is in 0 group
+> vertex 1675 is in 0 group
+> vertex 1676 is in 1 group
+12179c12179
+< vertex 1679 is in 0 group
+---
+> vertex 1679 is in 1 group
+12185c12185
+< vertex 1685 is in 1 group
+---
+> vertex 1685 is in 0 group
+12194c12194
+< vertex 1694 is in 0 group
+---
+> vertex 1694 is in 1 group
+12241c12241
+< vertex 1741 is in 0 group
+---
+> vertex 1741 is in 1 group
+12244c12244
+< vertex 1744 is in 1 group
+---
+> vertex 1744 is in 0 group
+12247c12247
+< vertex 1747 is in 1 group
+---
+> vertex 1747 is in 0 group
+12250c12250
+< vertex 1750 is in 1 group
+---
+> vertex 1750 is in 0 group
+12261,12262c12261,12262
+< vertex 1761 is in 1 group
+< vertex 1762 is in 1 group
+---
+> vertex 1761 is in 0 group
+> vertex 1762 is in 0 group
+12264c12264
+< vertex 1764 is in 1 group
+---
+> vertex 1764 is in 0 group
+12266,12268c12266,12268
+< vertex 1766 is in 0 group
+< vertex 1767 is in 1 group
+< vertex 1768 is in 1 group
+---
+> vertex 1766 is in 1 group
+> vertex 1767 is in 0 group
+> vertex 1768 is in 0 group
+12273c12273
+< vertex 1773 is in 1 group
+---
+> vertex 1773 is in 0 group
+12282c12282
+< vertex 1782 is in 1 group
+---
+> vertex 1782 is in 0 group
+12286,12290c12286,12290
+< vertex 1786 is in 1 group
+< vertex 1787 is in 1 group
+< vertex 1788 is in 1 group
+< vertex 1789 is in 1 group
+< vertex 1790 is in 1 group
+---
+> vertex 1786 is in 0 group
+> vertex 1787 is in 0 group
+> vertex 1788 is in 0 group
+> vertex 1789 is in 0 group
+> vertex 1790 is in 0 group
+12292,12298c12292,12298
+< vertex 1792 is in 1 group
+< vertex 1793 is in 1 group
+< vertex 1794 is in 1 group
+< vertex 1795 is in 1 group
+< vertex 1796 is in 1 group
+< vertex 1797 is in 1 group
+< vertex 1798 is in 1 group
+---
+> vertex 1792 is in 0 group
+> vertex 1793 is in 0 group
+> vertex 1794 is in 0 group
+> vertex 1795 is in 0 group
+> vertex 1796 is in 0 group
+> vertex 1797 is in 0 group
+> vertex 1798 is in 0 group
+12307,12310c12307,12310
+< vertex 1807 is in 0 group
+< vertex 1808 is in 1 group
+< vertex 1809 is in 1 group
+< vertex 1810 is in 1 group
+---
+> vertex 1807 is in 1 group
+> vertex 1808 is in 0 group
+> vertex 1809 is in 0 group
+> vertex 1810 is in 0 group
+12314c12314
+< vertex 1814 is in 1 group
+---
+> vertex 1814 is in 0 group
+12316c12316
+< vertex 1816 is in 0 group
+---
+> vertex 1816 is in 1 group
+12318c12318
+< vertex 1818 is in 1 group
+---
+> vertex 1818 is in 0 group
+12320,12321c12320,12321
+< vertex 1820 is in 1 group
+< vertex 1821 is in 1 group
+---
+> vertex 1820 is in 0 group
+> vertex 1821 is in 0 group
+12326c12326
+< vertex 1826 is in 1 group
+---
+> vertex 1826 is in 0 group
+12329,12330c12329,12330
+< vertex 1829 is in 1 group
+< vertex 1830 is in 1 group
+---
+> vertex 1829 is in 0 group
+> vertex 1830 is in 0 group
+12336c12336
+< vertex 1836 is in 1 group
+---
+> vertex 1836 is in 0 group
+12339,12342c12339,12342
+< vertex 1839 is in 1 group
+< vertex 1840 is in 1 group
+< vertex 1841 is in 1 group
+< vertex 1842 is in 1 group
+---
+> vertex 1839 is in 0 group
+> vertex 1840 is in 0 group
+> vertex 1841 is in 0 group
+> vertex 1842 is in 0 group
+12344,12345c12344,12345
+< vertex 1844 is in 1 group
+< vertex 1845 is in 1 group
+---
+> vertex 1844 is in 0 group
+> vertex 1845 is in 0 group
+12348,12349c12348,12349
+< vertex 1848 is in 1 group
+< vertex 1849 is in 1 group
+---
+> vertex 1848 is in 0 group
+> vertex 1849 is in 0 group
+12352c12352
+< vertex 1852 is in 1 group
+---
+> vertex 1852 is in 0 group
+12355,12356c12355,12356
+< vertex 1855 is in 1 group
+< vertex 1856 is in 1 group
+---
+> vertex 1855 is in 0 group
+> vertex 1856 is in 0 group
+12362c12362
+< vertex 1862 is in 1 group
+---
+> vertex 1862 is in 0 group
+12368c12368
+< vertex 1868 is in 1 group
+---
+> vertex 1868 is in 0 group
+12370,12372c12370,12372
+< vertex 1870 is in 1 group
+< vertex 1871 is in 0 group
+< vertex 1872 is in 1 group
+---
+> vertex 1870 is in 0 group
+> vertex 1871 is in 1 group
+> vertex 1872 is in 0 group
+12377c12377
+< vertex 1877 is in 1 group
+---
+> vertex 1877 is in 0 group
+12380,12383c12380,12383
+< vertex 1880 is in 1 group
+< vertex 1881 is in 1 group
+< vertex 1882 is in 1 group
+< vertex 1883 is in 1 group
+---
+> vertex 1880 is in 0 group
+> vertex 1881 is in 0 group
+> vertex 1882 is in 0 group
+> vertex 1883 is in 0 group
+12388,12389c12388,12389
+< vertex 1888 is in 1 group
+< vertex 1889 is in 1 group
+---
+> vertex 1888 is in 0 group
+> vertex 1889 is in 0 group
+12391,12393c12391,12393
+< vertex 1891 is in 1 group
+< vertex 1892 is in 1 group
+< vertex 1893 is in 1 group
+---
+> vertex 1891 is in 0 group
+> vertex 1892 is in 0 group
+> vertex 1893 is in 0 group
+12395,12399c12395,12399
+< vertex 1895 is in 1 group
+< vertex 1896 is in 1 group
+< vertex 1897 is in 1 group
+< vertex 1898 is in 1 group
+< vertex 1899 is in 1 group
+---
+> vertex 1895 is in 0 group
+> vertex 1896 is in 0 group
+> vertex 1897 is in 0 group
+> vertex 1898 is in 0 group
+> vertex 1899 is in 0 group
+12401,12403c12401,12403
+< vertex 1901 is in 1 group
+< vertex 1902 is in 1 group
+< vertex 1903 is in 1 group
+---
+> vertex 1901 is in 0 group
+> vertex 1902 is in 0 group
+> vertex 1903 is in 0 group
+12405c12405
+< vertex 1905 is in 1 group
+---
+> vertex 1905 is in 0 group
+12408c12408
+< vertex 1908 is in 1 group
+---
+> vertex 1908 is in 0 group
+12410c12410
+< vertex 1910 is in 1 group
+---
+> vertex 1910 is in 0 group
+12412,12413c12412,12413
+< vertex 1912 is in 1 group
+< vertex 1913 is in 1 group
+---
+> vertex 1912 is in 0 group
+> vertex 1913 is in 0 group
+12418,12420c12418,12420
+< vertex 1918 is in 1 group
+< vertex 1919 is in 1 group
+< vertex 1920 is in 1 group
+---
+> vertex 1918 is in 0 group
+> vertex 1919 is in 0 group
+> vertex 1920 is in 0 group
+12423,12424c12423,12424
+< vertex 1923 is in 1 group
+< vertex 1924 is in 1 group
+---
+> vertex 1923 is in 0 group
+> vertex 1924 is in 0 group
+12426c12426
+< vertex 1926 is in 1 group
+---
+> vertex 1926 is in 0 group
+12428,12429c12428,12429
+< vertex 1928 is in 1 group
+< vertex 1929 is in 1 group
+---
+> vertex 1928 is in 0 group
+> vertex 1929 is in 0 group
+12431,12432c12431,12432
+< vertex 1931 is in 1 group
+< vertex 1932 is in 0 group
+---
+> vertex 1931 is in 0 group
+> vertex 1932 is in 1 group
+12435c12435
+< vertex 1935 is in 1 group
+---
+> vertex 1935 is in 0 group
+12438c12438
+< vertex 1938 is in 1 group
+---
+> vertex 1938 is in 0 group
+12441,12447c12441,12447
+< vertex 1941 is in 1 group
+< vertex 1942 is in 1 group
+< vertex 1943 is in 0 group
+< vertex 1944 is in 1 group
+< vertex 1945 is in 1 group
+< vertex 1946 is in 1 group
+< vertex 1947 is in 1 group
+---
+> vertex 1941 is in 0 group
+> vertex 1942 is in 0 group
+> vertex 1943 is in 1 group
+> vertex 1944 is in 0 group
+> vertex 1945 is in 0 group
+> vertex 1946 is in 0 group
+> vertex 1947 is in 0 group
+12449c12449
+< vertex 1949 is in 1 group
+---
+> vertex 1949 is in 0 group
+12451,12453c12451,12453
+< vertex 1951 is in 1 group
+< vertex 1952 is in 1 group
+< vertex 1953 is in 1 group
+---
+> vertex 1951 is in 0 group
+> vertex 1952 is in 0 group
+> vertex 1953 is in 0 group
+12455c12455
+< vertex 1955 is in 1 group
+---
+> vertex 1955 is in 0 group
+12458,12459c12458,12459
+< vertex 1958 is in 1 group
+< vertex 1959 is in 1 group
+---
+> vertex 1958 is in 0 group
+> vertex 1959 is in 0 group
+12463,12465c12463,12465
+< vertex 1963 is in 1 group
+< vertex 1964 is in 1 group
+< vertex 1965 is in 1 group
+---
+> vertex 1963 is in 0 group
+> vertex 1964 is in 0 group
+> vertex 1965 is in 0 group
+12472,12475c12472,12475
+< vertex 1972 is in 1 group
+< vertex 1973 is in 1 group
+< vertex 1974 is in 1 group
+< vertex 1975 is in 1 group
+---
+> vertex 1972 is in 0 group
+> vertex 1973 is in 0 group
+> vertex 1974 is in 0 group
+> vertex 1975 is in 0 group
+12480c12480
+< vertex 1980 is in 1 group
+---
+> vertex 1980 is in 0 group
+12485,12486c12485,12486
+< vertex 1985 is in 1 group
+< vertex 1986 is in 1 group
+---
+> vertex 1985 is in 0 group
+> vertex 1986 is in 0 group
+12494c12494
+< vertex 1994 is in 1 group
+---
+> vertex 1994 is in 0 group
+12498,12504c12498,12504
+< vertex 1998 is in 0 group
+< vertex 1999 is in 0 group
+< vertex 2000 is in 1 group
+< vertex 2001 is in 1 group
+< vertex 2002 is in 1 group
+< vertex 2003 is in 1 group
+< vertex 2004 is in 1 group
+---
+> vertex 1998 is in 1 group
+> vertex 1999 is in 1 group
+> vertex 2000 is in 0 group
+> vertex 2001 is in 0 group
+> vertex 2002 is in 0 group
+> vertex 2003 is in 0 group
+> vertex 2004 is in 0 group
+12507c12507
+< vertex 2007 is in 1 group
+---
+> vertex 2007 is in 0 group
+12510,12514c12510,12514
+< vertex 2010 is in 1 group
+< vertex 2011 is in 1 group
+< vertex 2012 is in 1 group
+< vertex 2013 is in 1 group
+< vertex 2014 is in 1 group
+---
+> vertex 2010 is in 0 group
+> vertex 2011 is in 0 group
+> vertex 2012 is in 0 group
+> vertex 2013 is in 0 group
+> vertex 2014 is in 0 group
+12516c12516
+< vertex 2016 is in 1 group
+---
+> vertex 2016 is in 0 group
+12518c12518
+< vertex 2018 is in 1 group
+---
+> vertex 2018 is in 0 group
+12520,12522c12520,12522
+< vertex 2020 is in 1 group
+< vertex 2021 is in 1 group
+< vertex 2022 is in 1 group
+---
+> vertex 2020 is in 0 group
+> vertex 2021 is in 0 group
+> vertex 2022 is in 0 group
+12524,12525c12524,12525
+< vertex 2024 is in 1 group
+< vertex 2025 is in 1 group
+---
+> vertex 2024 is in 0 group
+> vertex 2025 is in 0 group
+12527,12530c12527,12530
+< vertex 2027 is in 1 group
+< vertex 2028 is in 1 group
+< vertex 2029 is in 1 group
+< vertex 2030 is in 1 group
+---
+> vertex 2027 is in 0 group
+> vertex 2028 is in 0 group
+> vertex 2029 is in 0 group
+> vertex 2030 is in 0 group
+12532c12532
+< vertex 2032 is in 1 group
+---
+> vertex 2032 is in 0 group
+12534c12534
+< vertex 2034 is in 1 group
+---
+> vertex 2034 is in 0 group
+12538,12539c12538,12539
+< vertex 2038 is in 1 group
+< vertex 2039 is in 1 group
+---
+> vertex 2038 is in 0 group
+> vertex 2039 is in 0 group
+12541c12541
+< vertex 2041 is in 1 group
+---
+> vertex 2041 is in 0 group
+12543,12545c12543,12545
+< vertex 2043 is in 1 group
+< vertex 2044 is in 1 group
+< vertex 2045 is in 1 group
+---
+> vertex 2043 is in 0 group
+> vertex 2044 is in 0 group
+> vertex 2045 is in 0 group
+12548,12550c12548,12550
+< vertex 2048 is in 1 group
+< vertex 2049 is in 1 group
+< vertex 2050 is in 1 group
+---
+> vertex 2048 is in 0 group
+> vertex 2049 is in 0 group
+> vertex 2050 is in 0 group
+12553c12553
+< vertex 2053 is in 1 group
+---
+> vertex 2053 is in 0 group
+12555,12556c12555,12556
+< vertex 2055 is in 1 group
+< vertex 2056 is in 1 group
+---
+> vertex 2055 is in 0 group
+> vertex 2056 is in 0 group
+12558,12559c12558,12559
+< vertex 2058 is in 1 group
+< vertex 2059 is in 1 group
+---
+> vertex 2058 is in 0 group
+> vertex 2059 is in 0 group
+12562c12562
+< vertex 2062 is in 1 group
+---
+> vertex 2062 is in 0 group
+12567c12567
+< vertex 2067 is in 1 group
+---
+> vertex 2067 is in 0 group
+12576c12576
+< vertex 2076 is in 1 group
+---
+> vertex 2076 is in 0 group
+12582c12582
+< vertex 2082 is in 1 group
+---
+> vertex 2082 is in 0 group
+12586,12590c12586,12590
+< vertex 2086 is in 0 group
+< vertex 2087 is in 0 group
+< vertex 2088 is in 0 group
+< vertex 2089 is in 0 group
+< vertex 2090 is in 0 group
+---
+> vertex 2086 is in 1 group
+> vertex 2087 is in 1 group
+> vertex 2088 is in 1 group
+> vertex 2089 is in 1 group
+> vertex 2090 is in 1 group
+12594c12594
+< vertex 2094 is in 1 group
+---
+> vertex 2094 is in 0 group
+12606c12606
+< vertex 2106 is in 1 group
+---
+> vertex 2106 is in 0 group
+12612c12612
+< vertex 2112 is in 1 group
+---
+> vertex 2112 is in 0 group
+12623c12623
+< vertex 2123 is in 1 group
+---
+> vertex 2123 is in 0 group
+12634c12634
+< vertex 2134 is in 0 group
+---
+> vertex 2134 is in 1 group
+12642c12642
+< vertex 2142 is in 1 group
+---
+> vertex 2142 is in 0 group
+12644,12645c12644,12645
+< vertex 2144 is in 1 group
+< vertex 2145 is in 1 group
+---
+> vertex 2144 is in 0 group
+> vertex 2145 is in 0 group
+12647,12648c12647,12648
+< vertex 2147 is in 1 group
+< vertex 2148 is in 1 group
+---
+> vertex 2147 is in 0 group
+> vertex 2148 is in 0 group
+12653c12653
+< vertex 2153 is in 1 group
+---
+> vertex 2153 is in 0 group
+12656c12656
+< vertex 2156 is in 1 group
+---
+> vertex 2156 is in 0 group
+12658,12659c12658,12659
+< vertex 2158 is in 1 group
+< vertex 2159 is in 1 group
+---
+> vertex 2158 is in 0 group
+> vertex 2159 is in 0 group
+12661,12662c12661,12662
+< vertex 2161 is in 1 group
+< vertex 2162 is in 1 group
+---
+> vertex 2161 is in 0 group
+> vertex 2162 is in 0 group
+12666c12666
+< vertex 2166 is in 1 group
+---
+> vertex 2166 is in 0 group
+12668,12670c12668,12670
+< vertex 2168 is in 1 group
+< vertex 2169 is in 1 group
+< vertex 2170 is in 1 group
+---
+> vertex 2168 is in 0 group
+> vertex 2169 is in 0 group
+> vertex 2170 is in 0 group
+12673,12674c12673,12674
+< vertex 2173 is in 1 group
+< vertex 2174 is in 1 group
+---
+> vertex 2173 is in 0 group
+> vertex 2174 is in 0 group
+12676,12677c12676,12677
+< vertex 2176 is in 1 group
+< vertex 2177 is in 1 group
+---
+> vertex 2176 is in 0 group
+> vertex 2177 is in 0 group
+12679,12680c12679,12680
+< vertex 2179 is in 1 group
+< vertex 2180 is in 1 group
+---
+> vertex 2179 is in 0 group
+> vertex 2180 is in 0 group
+12683c12683
+< vertex 2183 is in 1 group
+---
+> vertex 2183 is in 0 group
+12690c12690
+< vertex 2190 is in 1 group
+---
+> vertex 2190 is in 0 group
+12692,12694c12692,12694
+< vertex 2192 is in 1 group
+< vertex 2193 is in 1 group
+< vertex 2194 is in 1 group
+---
+> vertex 2192 is in 0 group
+> vertex 2193 is in 0 group
+> vertex 2194 is in 0 group
+12714c12714
+< vertex 2214 is in 0 group
+---
+> vertex 2214 is in 1 group
+12750,12751c12750,12751
+< vertex 2250 is in 1 group
+< vertex 2251 is in 1 group
+---
+> vertex 2250 is in 0 group
+> vertex 2251 is in 0 group
+12754c12754
+< vertex 2254 is in 1 group
+---
+> vertex 2254 is in 0 group
+12763c12763
+< vertex 2263 is in 1 group
+---
+> vertex 2263 is in 0 group
+12766,12768c12766,12768
+< vertex 2266 is in 1 group
+< vertex 2267 is in 1 group
+< vertex 2268 is in 1 group
+---
+> vertex 2266 is in 0 group
+> vertex 2267 is in 0 group
+> vertex 2268 is in 0 group
+12771c12771
+< vertex 2271 is in 1 group
+---
+> vertex 2271 is in 0 group
+12773c12773
+< vertex 2273 is in 1 group
+---
+> vertex 2273 is in 0 group
+12811c12811
+< vertex 2311 is in 1 group
+---
+> vertex 2311 is in 0 group
+12813c12813
+< vertex 2313 is in 1 group
+---
+> vertex 2313 is in 0 group
+12817c12817
+< vertex 2317 is in 1 group
+---
+> vertex 2317 is in 0 group
+12820c12820
+< vertex 2320 is in 1 group
+---
+> vertex 2320 is in 0 group
+12825c12825
+< vertex 2325 is in 1 group
+---
+> vertex 2325 is in 0 group
+12828,12832c12828,12832
+< vertex 2328 is in 1 group
+< vertex 2329 is in 1 group
+< vertex 2330 is in 1 group
+< vertex 2331 is in 1 group
+< vertex 2332 is in 1 group
+---
+> vertex 2328 is in 0 group
+> vertex 2329 is in 0 group
+> vertex 2330 is in 0 group
+> vertex 2331 is in 0 group
+> vertex 2332 is in 0 group
+12834c12834
+< vertex 2334 is in 1 group
+---
+> vertex 2334 is in 0 group
+12848c12848
+< vertex 2348 is in 1 group
+---
+> vertex 2348 is in 0 group
+12850c12850
+< vertex 2350 is in 1 group
+---
+> vertex 2350 is in 0 group
+12858c12858
+< vertex 2358 is in 1 group
+---
+> vertex 2358 is in 0 group
+12866c12866
+< vertex 2366 is in 0 group
+---
+> vertex 2366 is in 1 group
+12868c12868
+< vertex 2368 is in 1 group
+---
+> vertex 2368 is in 0 group
+12880c12880
+< vertex 2380 is in 1 group
+---
+> vertex 2380 is in 0 group
+12888c12888
+< vertex 2388 is in 0 group
+---
+> vertex 2388 is in 1 group
+12891,12892c12891,12892
+< vertex 2391 is in 0 group
+< vertex 2392 is in 1 group
+---
+> vertex 2391 is in 1 group
+> vertex 2392 is in 0 group
+12912c12912
+< vertex 2412 is in 1 group
+---
+> vertex 2412 is in 0 group
+12926c12926
+< vertex 2426 is in 1 group
+---
+> vertex 2426 is in 0 group
+12930c12930
+< vertex 2430 is in 0 group
+---
+> vertex 2430 is in 1 group
+12932,12933c12932,12933
+< vertex 2432 is in 1 group
+< vertex 2433 is in 1 group
+---
+> vertex 2432 is in 0 group
+> vertex 2433 is in 0 group
+12967c12967
+< vertex 2467 is in 1 group
+---
+> vertex 2467 is in 0 group
+12969c12969
+< vertex 2469 is in 0 group
+---
+> vertex 2469 is in 1 group
+12972,12973c12972,12973
+< vertex 2472 is in 1 group
+< vertex 2473 is in 0 group
+---
+> vertex 2472 is in 0 group
+> vertex 2473 is in 1 group
+12983c12983
+< vertex 2483 is in 1 group
+---
+> vertex 2483 is in 0 group
+12992c12992
+< vertex 2492 is in 0 group
+---
+> vertex 2492 is in 1 group
+13002c13002
+< vertex 2502 is in 1 group
+---
+> vertex 2502 is in 0 group
+13014c13014
+< vertex 2514 is in 1 group
+---
+> vertex 2514 is in 0 group
+13019,13022c13019,13022
+< vertex 2519 is in 1 group
+< vertex 2520 is in 0 group
+< vertex 2521 is in 1 group
+< vertex 2522 is in 1 group
+---
+> vertex 2519 is in 0 group
+> vertex 2520 is in 1 group
+> vertex 2521 is in 0 group
+> vertex 2522 is in 0 group
+13024,13025c13024,13025
+< vertex 2524 is in 1 group
+< vertex 2525 is in 1 group
+---
+> vertex 2524 is in 0 group
+> vertex 2525 is in 0 group
+13027c13027
+< vertex 2527 is in 1 group
+---
+> vertex 2527 is in 0 group
+13029c13029
+< vertex 2529 is in 0 group
+---
+> vertex 2529 is in 1 group
+13042c13042
+< vertex 2542 is in 1 group
+---
+> vertex 2542 is in 0 group
+13047c13047
+< vertex 2547 is in 1 group
+---
+> vertex 2547 is in 0 group
+13050c13050
+< vertex 2550 is in 1 group
+---
+> vertex 2550 is in 0 group
+13052c13052
+< vertex 2552 is in 1 group
+---
+> vertex 2552 is in 0 group
+13057c13057
+< vertex 2557 is in 1 group
+---
+> vertex 2557 is in 0 group
+13064c13064
+< vertex 2564 is in 0 group
+---
+> vertex 2564 is in 1 group
+13066c13066
+< vertex 2566 is in 1 group
+---
+> vertex 2566 is in 0 group
+13071c13071
+< vertex 2571 is in 1 group
+---
+> vertex 2571 is in 0 group
+13085c13085
+< vertex 2585 is in 1 group
+---
+> vertex 2585 is in 0 group
+13087c13087
+< vertex 2587 is in 1 group
+---
+> vertex 2587 is in 0 group
+13089c13089
+< vertex 2589 is in 0 group
+---
+> vertex 2589 is in 1 group
+13099c13099
+< vertex 2599 is in 1 group
+---
+> vertex 2599 is in 0 group
+13106,13109c13106,13109
+< vertex 2606 is in 1 group
+< vertex 2607 is in 0 group
+< vertex 2608 is in 0 group
+< vertex 2609 is in 0 group
+---
+> vertex 2606 is in 0 group
+> vertex 2607 is in 1 group
+> vertex 2608 is in 1 group
+> vertex 2609 is in 1 group
+13135,13136c13135,13136
+< vertex 2635 is in 1 group
+< vertex 2636 is in 0 group
+---
+> vertex 2635 is in 0 group
+> vertex 2636 is in 1 group
+13146c13146
+< vertex 2646 is in 1 group
+---
+> vertex 2646 is in 0 group
+13151c13151
+< vertex 2651 is in 1 group
+---
+> vertex 2651 is in 0 group
+13169c13169
+< vertex 2669 is in 1 group
+---
+> vertex 2669 is in 0 group
+13171c13171
+< vertex 2671 is in 1 group
+---
+> vertex 2671 is in 0 group
+13174,13175c13174,13175
+< vertex 2674 is in 0 group
+< vertex 2675 is in 0 group
+---
+> vertex 2674 is in 1 group
+> vertex 2675 is in 1 group
+13179c13179
+< vertex 2679 is in 1 group
+---
+> vertex 2679 is in 0 group
+13188c13188
+< vertex 2688 is in 1 group
+---
+> vertex 2688 is in 0 group
+13234c13234
+< vertex 2734 is in 1 group
+---
+> vertex 2734 is in 0 group
+13254c13254
+< vertex 2754 is in 1 group
+---
+> vertex 2754 is in 0 group
+13266c13266
+< vertex 2766 is in 1 group
+---
+> vertex 2766 is in 0 group
+13273,13274c13273,13274
+< vertex 2773 is in 1 group
+< vertex 2774 is in 1 group
+---
+> vertex 2773 is in 0 group
+> vertex 2774 is in 0 group
+13280c13280
+< vertex 2780 is in 0 group
+---
+> vertex 2780 is in 1 group
+13290c13290
+< vertex 2790 is in 1 group
+---
+> vertex 2790 is in 0 group
+13292c13292
+< vertex 2792 is in 1 group
+---
+> vertex 2792 is in 0 group
+13303,13304c13303,13304
+< vertex 2803 is in 1 group
+< vertex 2804 is in 1 group
+---
+> vertex 2803 is in 0 group
+> vertex 2804 is in 0 group
+13321c13321
+< vertex 2821 is in 1 group
+---
+> vertex 2821 is in 0 group
+13328c13328
+< vertex 2828 is in 1 group
+---
+> vertex 2828 is in 0 group
+13339,13340c13339,13340
+< vertex 2839 is in 1 group
+< vertex 2840 is in 1 group
+---
+> vertex 2839 is in 0 group
+> vertex 2840 is in 0 group
+13347c13347
+< vertex 2847 is in 0 group
+---
+> vertex 2847 is in 1 group
+13352c13352
+< vertex 2852 is in 0 group
+---
+> vertex 2852 is in 1 group
+13379,13380c13379,13380
+< vertex 2879 is in 1 group
+< vertex 2880 is in 0 group
+---
+> vertex 2879 is in 0 group
+> vertex 2880 is in 1 group
+13391c13391
+< vertex 2891 is in 1 group
+---
+> vertex 2891 is in 0 group
+13403,13404c13403,13404
+< vertex 2903 is in 1 group
+< vertex 2904 is in 1 group
+---
+> vertex 2903 is in 0 group
+> vertex 2904 is in 0 group
+13433c13433
+< vertex 2933 is in 1 group
+---
+> vertex 2933 is in 0 group
+13435c13435
+< vertex 2935 is in 1 group
+---
+> vertex 2935 is in 0 group
+13460c13460
+< vertex 2960 is in 0 group
+---
+> vertex 2960 is in 1 group
+13482c13482
+< vertex 2982 is in 1 group
+---
+> vertex 2982 is in 0 group
+13488c13488
+< vertex 2988 is in 1 group
+---
+> vertex 2988 is in 0 group
+13490,13491c13490,13491
+< vertex 2990 is in 1 group
+< vertex 2991 is in 1 group
+---
+> vertex 2990 is in 0 group
+> vertex 2991 is in 0 group
+13497c13497
+< vertex 2997 is in 0 group
+---
+> vertex 2997 is in 1 group
+13510c13510
+< vertex 3010 is in 1 group
+---
+> vertex 3010 is in 0 group
+13536,13542c13536,13542
+< vertex 3036 is in 1 group
+< vertex 3037 is in 1 group
+< vertex 3038 is in 1 group
+< vertex 3039 is in 1 group
+< vertex 3040 is in 1 group
+< vertex 3041 is in 1 group
+< vertex 3042 is in 1 group
+---
+> vertex 3036 is in 0 group
+> vertex 3037 is in 0 group
+> vertex 3038 is in 0 group
+> vertex 3039 is in 0 group
+> vertex 3040 is in 0 group
+> vertex 3041 is in 0 group
+> vertex 3042 is in 0 group
+13547c13547
+< vertex 3047 is in 1 group
+---
+> vertex 3047 is in 0 group
+13550,13551c13550,13551
+< vertex 3050 is in 1 group
+< vertex 3051 is in 1 group
+---
+> vertex 3050 is in 0 group
+> vertex 3051 is in 0 group
+13554c13554
+< vertex 3054 is in 1 group
+---
+> vertex 3054 is in 0 group
+13556c13556
+< vertex 3056 is in 1 group
+---
+> vertex 3056 is in 0 group
+13558,13559c13558,13559
+< vertex 3058 is in 1 group
+< vertex 3059 is in 1 group
+---
+> vertex 3058 is in 0 group
+> vertex 3059 is in 0 group
+13569c13569
+< vertex 3069 is in 1 group
+---
+> vertex 3069 is in 0 group
+13571,13574c13571,13574
+< vertex 3071 is in 1 group
+< vertex 3072 is in 1 group
+< vertex 3073 is in 1 group
+< vertex 3074 is in 1 group
+---
+> vertex 3071 is in 0 group
+> vertex 3072 is in 0 group
+> vertex 3073 is in 0 group
+> vertex 3074 is in 0 group
+13578c13578
+< vertex 3078 is in 1 group
+---
+> vertex 3078 is in 0 group
+13585,13587c13585,13587
+< vertex 3085 is in 1 group
+< vertex 3086 is in 1 group
+< vertex 3087 is in 1 group
+---
+> vertex 3085 is in 0 group
+> vertex 3086 is in 0 group
+> vertex 3087 is in 0 group
+13589c13589
+< vertex 3089 is in 1 group
+---
+> vertex 3089 is in 0 group
+13592,13594c13592,13594
+< vertex 3092 is in 1 group
+< vertex 3093 is in 1 group
+< vertex 3094 is in 1 group
+---
+> vertex 3092 is in 0 group
+> vertex 3093 is in 0 group
+> vertex 3094 is in 0 group
+13597c13597
+< vertex 3097 is in 1 group
+---
+> vertex 3097 is in 0 group
+13601c13601
+< vertex 3101 is in 1 group
+---
+> vertex 3101 is in 0 group
+13604c13604
+< vertex 3104 is in 1 group
+---
+> vertex 3104 is in 0 group
+13607c13607
+< vertex 3107 is in 1 group
+---
+> vertex 3107 is in 0 group
+13610,13611c13610,13611
+< vertex 3110 is in 1 group
+< vertex 3111 is in 1 group
+---
+> vertex 3110 is in 0 group
+> vertex 3111 is in 0 group
+13614c13614
+< vertex 3114 is in 1 group
+---
+> vertex 3114 is in 0 group
+13617c13617
+< vertex 3117 is in 1 group
+---
+> vertex 3117 is in 0 group
+13619c13619
+< vertex 3119 is in 1 group
+---
+> vertex 3119 is in 0 group
+13622c13622
+< vertex 3122 is in 1 group
+---
+> vertex 3122 is in 0 group
+13633,13635c13633,13635
+< vertex 3133 is in 1 group
+< vertex 3134 is in 1 group
+< vertex 3135 is in 1 group
+---
+> vertex 3133 is in 0 group
+> vertex 3134 is in 0 group
+> vertex 3135 is in 0 group
+13642,13643c13642,13643
+< vertex 3142 is in 1 group
+< vertex 3143 is in 1 group
+---
+> vertex 3142 is in 0 group
+> vertex 3143 is in 0 group
+13655,13657c13655,13657
+< vertex 3155 is in 1 group
+< vertex 3156 is in 1 group
+< vertex 3157 is in 1 group
+---
+> vertex 3155 is in 0 group
+> vertex 3156 is in 0 group
+> vertex 3157 is in 0 group
+13667c13667
+< vertex 3167 is in 1 group
+---
+> vertex 3167 is in 0 group
+13678,13681c13678,13681
+< vertex 3178 is in 1 group
+< vertex 3179 is in 1 group
+< vertex 3180 is in 0 group
+< vertex 3181 is in 1 group
+---
+> vertex 3178 is in 0 group
+> vertex 3179 is in 0 group
+> vertex 3180 is in 1 group
+> vertex 3181 is in 0 group
+13683c13683
+< vertex 3183 is in 1 group
+---
+> vertex 3183 is in 0 group
+13686c13686
+< vertex 3186 is in 1 group
+---
+> vertex 3186 is in 0 group
+13688c13688
+< vertex 3188 is in 1 group
+---
+> vertex 3188 is in 0 group
+13697,13698c13697,13698
+< vertex 3197 is in 1 group
+< vertex 3198 is in 0 group
+---
+> vertex 3197 is in 0 group
+> vertex 3198 is in 1 group
+13704c13704
+< vertex 3204 is in 1 group
+---
+> vertex 3204 is in 0 group
+13710c13710
+< vertex 3210 is in 1 group
+---
+> vertex 3210 is in 0 group
+13712c13712
+< vertex 3212 is in 1 group
+---
+> vertex 3212 is in 0 group
+13720c13720
+< vertex 3220 is in 0 group
+---
+> vertex 3220 is in 1 group
+13733c13733
+< vertex 3233 is in 0 group
+---
+> vertex 3233 is in 1 group
+13737c13737
+< vertex 3237 is in 1 group
+---
+> vertex 3237 is in 0 group
+13740c13740
+< vertex 3240 is in 1 group
+---
+> vertex 3240 is in 0 group
+13747,13748c13747,13748
+< vertex 3247 is in 1 group
+< vertex 3248 is in 1 group
+---
+> vertex 3247 is in 0 group
+> vertex 3248 is in 0 group
+13753c13753
+< vertex 3253 is in 0 group
+---
+> vertex 3253 is in 1 group
+13787c13787
+< vertex 3287 is in 1 group
+---
+> vertex 3287 is in 0 group
+13792c13792
+< vertex 3292 is in 0 group
+---
+> vertex 3292 is in 1 group
+13795c13795
+< vertex 3295 is in 1 group
+---
+> vertex 3295 is in 0 group
+13798c13798
+< vertex 3298 is in 1 group
+---
+> vertex 3298 is in 0 group
+13802,13803c13802,13803
+< vertex 3302 is in 1 group
+< vertex 3303 is in 0 group
+---
+> vertex 3302 is in 0 group
+> vertex 3303 is in 1 group
+13806c13806
+< vertex 3306 is in 1 group
+---
+> vertex 3306 is in 0 group
+13810c13810
+< vertex 3310 is in 1 group
+---
+> vertex 3310 is in 0 group
+13816,13817c13816,13817
+< vertex 3316 is in 1 group
+< vertex 3317 is in 0 group
+---
+> vertex 3316 is in 0 group
+> vertex 3317 is in 1 group
+13824c13824
+< vertex 3324 is in 1 group
+---
+> vertex 3324 is in 0 group
+13839c13839
+< vertex 3339 is in 0 group
+---
+> vertex 3339 is in 1 group
+13842,13843c13842,13843
+< vertex 3342 is in 1 group
+< vertex 3343 is in 1 group
+---
+> vertex 3342 is in 0 group
+> vertex 3343 is in 0 group
+13847c13847
+< vertex 3347 is in 1 group
+---
+> vertex 3347 is in 0 group
+13851c13851
+< vertex 3351 is in 1 group
+---
+> vertex 3351 is in 0 group
+13854c13854
+< vertex 3354 is in 1 group
+---
+> vertex 3354 is in 0 group
+13856,13857c13856,13857
+< vertex 3356 is in 1 group
+< vertex 3357 is in 1 group
+---
+> vertex 3356 is in 0 group
+> vertex 3357 is in 0 group
+13860,13862c13860,13862
+< vertex 3360 is in 1 group
+< vertex 3361 is in 0 group
+< vertex 3362 is in 1 group
+---
+> vertex 3360 is in 0 group
+> vertex 3361 is in 1 group
+> vertex 3362 is in 0 group
+13865c13865
+< vertex 3365 is in 1 group
+---
+> vertex 3365 is in 0 group
+13871c13871
+< vertex 3371 is in 1 group
+---
+> vertex 3371 is in 0 group
+13882,13883c13882,13883
+< vertex 3382 is in 0 group
+< vertex 3383 is in 1 group
+---
+> vertex 3382 is in 1 group
+> vertex 3383 is in 0 group
+13885c13885
+< vertex 3385 is in 1 group
+---
+> vertex 3385 is in 0 group
+13889,13890c13889,13890
+< vertex 3389 is in 1 group
+< vertex 3390 is in 1 group
+---
+> vertex 3389 is in 0 group
+> vertex 3390 is in 0 group
+13893c13893
+< vertex 3393 is in 1 group
+---
+> vertex 3393 is in 0 group
+13895,13898c13895,13898
+< vertex 3395 is in 1 group
+< vertex 3396 is in 1 group
+< vertex 3397 is in 0 group
+< vertex 3398 is in 1 group
+---
+> vertex 3395 is in 0 group
+> vertex 3396 is in 0 group
+> vertex 3397 is in 1 group
+> vertex 3398 is in 0 group
+13900c13900
+< vertex 3400 is in 0 group
+---
+> vertex 3400 is in 1 group
+13906c13906
+< vertex 3406 is in 1 group
+---
+> vertex 3406 is in 0 group
+13912,13914c13912,13914
+< vertex 3412 is in 1 group
+< vertex 3413 is in 1 group
+< vertex 3414 is in 1 group
+---
+> vertex 3412 is in 0 group
+> vertex 3413 is in 0 group
+> vertex 3414 is in 0 group
+13918c13918
+< vertex 3418 is in 0 group
+---
+> vertex 3418 is in 1 group
+13923,13925c13923,13925
+< vertex 3423 is in 1 group
+< vertex 3424 is in 1 group
+< vertex 3425 is in 1 group
+---
+> vertex 3423 is in 0 group
+> vertex 3424 is in 0 group
+> vertex 3425 is in 0 group
+13931c13931
+< vertex 3431 is in 1 group
+---
+> vertex 3431 is in 0 group
+13947c13947
+< vertex 3447 is in 1 group
+---
+> vertex 3447 is in 0 group
+13955c13955
+< vertex 3455 is in 1 group
+---
+> vertex 3455 is in 0 group
+13961c13961
+< vertex 3461 is in 1 group
+---
+> vertex 3461 is in 0 group
+13966c13966
+< vertex 3466 is in 0 group
+---
+> vertex 3466 is in 1 group
+13979c13979
+< vertex 3479 is in 1 group
+---
+> vertex 3479 is in 0 group
+13994c13994
+< vertex 3494 is in 1 group
+---
+> vertex 3494 is in 0 group
+14011c14011
+< vertex 3511 is in 1 group
+---
+> vertex 3511 is in 0 group
+14033c14033
+< vertex 3533 is in 1 group
+---
+> vertex 3533 is in 0 group
+14043c14043
+< vertex 3543 is in 1 group
+---
+> vertex 3543 is in 0 group
+14086c14086
+< vertex 3586 is in 1 group
+---
+> vertex 3586 is in 0 group
+14089c14089
+< vertex 3589 is in 0 group
+---
+> vertex 3589 is in 1 group
+14096c14096
+< vertex 3596 is in 0 group
+---
+> vertex 3596 is in 1 group
+14108c14108
+< vertex 3608 is in 1 group
+---
+> vertex 3608 is in 0 group
+14111c14111
+< vertex 3611 is in 1 group
+---
+> vertex 3611 is in 0 group
+14115c14115
+< vertex 3615 is in 1 group
+---
+> vertex 3615 is in 0 group
+14119c14119
+< vertex 3619 is in 1 group
+---
+> vertex 3619 is in 0 group
+14124c14124
+< vertex 3624 is in 0 group
+---
+> vertex 3624 is in 1 group
+14142,14143c14142,14143
+< vertex 3642 is in 1 group
+< vertex 3643 is in 1 group
+---
+> vertex 3642 is in 0 group
+> vertex 3643 is in 0 group
+14154c14154
+< vertex 3654 is in 0 group
+---
+> vertex 3654 is in 1 group
+14163c14163
+< vertex 3663 is in 1 group
+---
+> vertex 3663 is in 0 group
+14176c14176
+< vertex 3676 is in 1 group
+---
+> vertex 3676 is in 0 group
+14178c14178
+< vertex 3678 is in 1 group
+---
+> vertex 3678 is in 0 group
+14233,14234c14233,14234
+< vertex 3733 is in 1 group
+< vertex 3734 is in 1 group
+---
+> vertex 3733 is in 0 group
+> vertex 3734 is in 0 group
+14237c14237
+< vertex 3737 is in 0 group
+---
+> vertex 3737 is in 1 group
+14239c14239
+< vertex 3739 is in 1 group
+---
+> vertex 3739 is in 0 group
+14246c14246
+< vertex 3746 is in 1 group
+---
+> vertex 3746 is in 0 group
+14261c14261
+< vertex 3761 is in 1 group
+---
+> vertex 3761 is in 0 group
+14304c14304
+< vertex 3804 is in 0 group
+---
+> vertex 3804 is in 1 group
+14320c14320
+< vertex 3820 is in 1 group
+---
+> vertex 3820 is in 0 group
+14322c14322
+< vertex 3822 is in 0 group
+---
+> vertex 3822 is in 1 group
+14340c14340
+< vertex 3840 is in 0 group
+---
+> vertex 3840 is in 1 group
+14344c14344
+< vertex 3844 is in 0 group
+---
+> vertex 3844 is in 1 group
+14350c14350
+< vertex 3850 is in 0 group
+---
+> vertex 3850 is in 1 group
+14354c14354
+< vertex 3854 is in 1 group
+---
+> vertex 3854 is in 0 group
+14359c14359
+< vertex 3859 is in 1 group
+---
+> vertex 3859 is in 0 group
+14376c14376
+< vertex 3876 is in 0 group
+---
+> vertex 3876 is in 1 group
+14403c14403
+< vertex 3903 is in 1 group
+---
+> vertex 3903 is in 0 group
+14418c14418
+< vertex 3918 is in 1 group
+---
+> vertex 3918 is in 0 group
+14433c14433
+< vertex 3933 is in 1 group
+---
+> vertex 3933 is in 0 group
+14438c14438
+< vertex 3938 is in 0 group
+---
+> vertex 3938 is in 1 group
+14442c14442
+< vertex 3942 is in 1 group
+---
+> vertex 3942 is in 0 group
+14449c14449
+< vertex 3949 is in 0 group
+---
+> vertex 3949 is in 1 group
+14452c14452
+< vertex 3952 is in 0 group
+---
+> vertex 3952 is in 1 group
+14459c14459
+< vertex 3959 is in 1 group
+---
+> vertex 3959 is in 0 group
+14471c14471
+< vertex 3971 is in 0 group
+---
+> vertex 3971 is in 1 group
+14484c14484
+< vertex 3984 is in 1 group
+---
+> vertex 3984 is in 0 group
+14492c14492
+< vertex 3992 is in 1 group
+---
+> vertex 3992 is in 0 group
+14502c14502
+< vertex 4002 is in 1 group
+---
+> vertex 4002 is in 0 group
+14506c14506
+< vertex 4006 is in 0 group
+---
+> vertex 4006 is in 1 group
+14524c14524
+< vertex 4024 is in 0 group
+---
+> vertex 4024 is in 1 group
+14533,14534c14533,14534
+< vertex 4033 is in 1 group
+< vertex 4034 is in 1 group
+---
+> vertex 4033 is in 0 group
+> vertex 4034 is in 0 group
+14544c14544
+< vertex 4044 is in 1 group
+---
+> vertex 4044 is in 0 group
+14555c14555
+< vertex 4055 is in 1 group
+---
+> vertex 4055 is in 0 group
+14560c14560
+< vertex 4060 is in 1 group
+---
+> vertex 4060 is in 0 group
+14580c14580
+< vertex 4080 is in 1 group
+---
+> vertex 4080 is in 0 group
+14653c14653
+< vertex 4153 is in 1 group
+---
+> vertex 4153 is in 0 group
+14668,14670c14668,14670
+< vertex 4168 is in 1 group
+< vertex 4169 is in 1 group
+< vertex 4170 is in 1 group
+---
+> vertex 4168 is in 0 group
+> vertex 4169 is in 0 group
+> vertex 4170 is in 0 group
+14684c14684
+< vertex 4184 is in 1 group
+---
+> vertex 4184 is in 0 group
+14716c14716
+< vertex 4216 is in 1 group
+---
+> vertex 4216 is in 0 group
+14726c14726
+< vertex 4226 is in 0 group
+---
+> vertex 4226 is in 1 group
+14740c14740
+< vertex 4240 is in 1 group
+---
+> vertex 4240 is in 0 group
+14744,14745c14744,14745
+< vertex 4244 is in 0 group
+< vertex 4245 is in 1 group
+---
+> vertex 4244 is in 1 group
+> vertex 4245 is in 0 group
+14757,14758c14757,14758
+< vertex 4257 is in 1 group
+< vertex 4258 is in 1 group
+---
+> vertex 4257 is in 0 group
+> vertex 4258 is in 0 group
+14762c14762
+< vertex 4262 is in 1 group
+---
+> vertex 4262 is in 0 group
+14798c14798
+< vertex 4298 is in 0 group
+---
+> vertex 4298 is in 1 group
+14802c14802
+< vertex 4302 is in 1 group
+---
+> vertex 4302 is in 0 group
+14809c14809
+< vertex 4309 is in 0 group
+---
+> vertex 4309 is in 1 group
+14834c14834
+< vertex 4334 is in 1 group
+---
+> vertex 4334 is in 0 group
+14862c14862
+< vertex 4362 is in 1 group
+---
+> vertex 4362 is in 0 group
+14869c14869
+< vertex 4369 is in 1 group
+---
+> vertex 4369 is in 0 group
+14871c14871
+< vertex 4371 is in 1 group
+---
+> vertex 4371 is in 0 group
+14874c14874
+< vertex 4374 is in 0 group
+---
+> vertex 4374 is in 1 group
+14884,14885c14884,14885
+< vertex 4384 is in 1 group
+< vertex 4385 is in 1 group
+---
+> vertex 4384 is in 0 group
+> vertex 4385 is in 0 group
+14905c14905
+< vertex 4405 is in 1 group
+---
+> vertex 4405 is in 0 group
+14907c14907
+< vertex 4407 is in 1 group
+---
+> vertex 4407 is in 0 group
+14909c14909
+< vertex 4409 is in 1 group
+---
+> vertex 4409 is in 0 group
+14919,14920c14919,14920
+< vertex 4419 is in 1 group
+< vertex 4420 is in 1 group
+---
+> vertex 4419 is in 0 group
+> vertex 4420 is in 0 group
+14935c14935
+< vertex 4435 is in 1 group
+---
+> vertex 4435 is in 0 group
+14939c14939
+< vertex 4439 is in 0 group
+---
+> vertex 4439 is in 1 group
+14945c14945
+< vertex 4445 is in 1 group
+---
+> vertex 4445 is in 0 group
+14950c14950
+< vertex 4450 is in 0 group
+---
+> vertex 4450 is in 1 group
+14968c14968
+< vertex 4468 is in 0 group
+---
+> vertex 4468 is in 1 group
+14979c14979
+< vertex 4479 is in 0 group
+---
+> vertex 4479 is in 1 group
+14994c14994
+< vertex 4494 is in 0 group
+---
+> vertex 4494 is in 1 group
+15003c15003
+< vertex 4503 is in 1 group
+---
+> vertex 4503 is in 0 group
+15008c15008
+< vertex 4508 is in 0 group
+---
+> vertex 4508 is in 1 group
+15011c15011
+< vertex 4511 is in 0 group
+---
+> vertex 4511 is in 1 group
+15018c15018
+< vertex 4518 is in 1 group
+---
+> vertex 4518 is in 0 group
+15041c15041
+< vertex 4541 is in 0 group
+---
+> vertex 4541 is in 1 group
+15047c15047
+< vertex 4547 is in 0 group
+---
+> vertex 4547 is in 1 group
+15049c15049
+< vertex 4549 is in 1 group
+---
+> vertex 4549 is in 0 group
+15054,15055c15054,15055
+< vertex 4554 is in 1 group
+< vertex 4555 is in 1 group
+---
+> vertex 4554 is in 0 group
+> vertex 4555 is in 0 group
+15058c15058
+< vertex 4558 is in 0 group
+---
+> vertex 4558 is in 1 group
+15061c15061
+< vertex 4561 is in 1 group
+---
+> vertex 4561 is in 0 group
+15065,15067c15065,15067
+< vertex 4565 is in 0 group
+< vertex 4566 is in 1 group
+< vertex 4567 is in 1 group
+---
+> vertex 4565 is in 1 group
+> vertex 4566 is in 0 group
+> vertex 4567 is in 0 group
+15069,15070c15069,15070
+< vertex 4569 is in 0 group
+< vertex 4570 is in 0 group
+---
+> vertex 4569 is in 1 group
+> vertex 4570 is in 1 group
+15075c15075
+< vertex 4575 is in 1 group
+---
+> vertex 4575 is in 0 group
+15101c15101
+< vertex 4601 is in 0 group
+---
+> vertex 4601 is in 1 group
+15126c15126
+< vertex 4626 is in 1 group
+---
+> vertex 4626 is in 0 group
+15130c15130
+< vertex 4630 is in 0 group
+---
+> vertex 4630 is in 1 group
+15144c15144
+< vertex 4644 is in 1 group
+---
+> vertex 4644 is in 0 group
+15158c15158
+< vertex 4658 is in 1 group
+---
+> vertex 4658 is in 0 group
+15166c15166
+< vertex 4666 is in 0 group
+---
+> vertex 4666 is in 1 group
+15173c15173
+< vertex 4673 is in 1 group
+---
+> vertex 4673 is in 0 group
+15191c15191
+< vertex 4691 is in 1 group
+---
+> vertex 4691 is in 0 group
+15206c15206
+< vertex 4706 is in 0 group
+---
+> vertex 4706 is in 1 group
+15213c15213
+< vertex 4713 is in 0 group
+---
+> vertex 4713 is in 1 group
+15219,15221c15219,15221
+< vertex 4719 is in 1 group
+< vertex 4720 is in 0 group
+< vertex 4721 is in 1 group
+---
+> vertex 4719 is in 0 group
+> vertex 4720 is in 1 group
+> vertex 4721 is in 0 group
+15224c15224
+< vertex 4724 is in 0 group
+---
+> vertex 4724 is in 1 group
+15226,15227c15226,15227
+< vertex 4726 is in 0 group
+< vertex 4727 is in 1 group
+---
+> vertex 4726 is in 1 group
+> vertex 4727 is in 0 group
+15231c15231
+< vertex 4731 is in 0 group
+---
+> vertex 4731 is in 1 group
+15238c15238
+< vertex 4738 is in 1 group
+---
+> vertex 4738 is in 0 group
+15241c15241
+< vertex 4741 is in 1 group
+---
+> vertex 4741 is in 0 group
+15248c15248
+< vertex 4748 is in 0 group
+---
+> vertex 4748 is in 1 group
+15260,15261c15260,15261
+< vertex 4760 is in 0 group
+< vertex 4761 is in 0 group
+---
+> vertex 4760 is in 1 group
+> vertex 4761 is in 1 group
+15265c15265
+< vertex 4765 is in 0 group
+---
+> vertex 4765 is in 1 group
+15301c15301
+< vertex 4801 is in 1 group
+---
+> vertex 4801 is in 0 group
+15304c15304
+< vertex 4804 is in 1 group
+---
+> vertex 4804 is in 0 group
+15319c15319
+< vertex 4819 is in 1 group
+---
+> vertex 4819 is in 0 group
+15327c15327
+< vertex 4827 is in 0 group
+---
+> vertex 4827 is in 1 group
+15332c15332
+< vertex 4832 is in 1 group
+---
+> vertex 4832 is in 0 group
+15334c15334
+< vertex 4834 is in 0 group
+---
+> vertex 4834 is in 1 group
+15345c15345
+< vertex 4845 is in 0 group
+---
+> vertex 4845 is in 1 group
+15377c15377
+< vertex 4877 is in 0 group
+---
+> vertex 4877 is in 1 group
+15380c15380
+< vertex 4880 is in 1 group
+---
+> vertex 4880 is in 0 group
+15398c15398
+< vertex 4898 is in 0 group
+---
+> vertex 4898 is in 1 group
+15422c15422
+< vertex 4922 is in 1 group
+---
+> vertex 4922 is in 0 group
+15439c15439
+< vertex 4939 is in 0 group
+---
+> vertex 4939 is in 1 group
+15446c15446
+< vertex 4946 is in 1 group
+---
+> vertex 4946 is in 0 group
+15457c15457
+< vertex 4957 is in 1 group
+---
+> vertex 4957 is in 0 group
+15460c15460
+< vertex 4960 is in 1 group
+---
+> vertex 4960 is in 0 group
+15493c15493
+< vertex 4993 is in 0 group
+---
+> vertex 4993 is in 1 group
+15515c15515
+< vertex 5015 is in 0 group
+---
+> vertex 5015 is in 1 group
+15520,15521c15520,15521
+< vertex 5020 is in 1 group
+< vertex 5021 is in 1 group
+---
+> vertex 5020 is in 0 group
+> vertex 5021 is in 0 group
+15526,15527c15526,15527
+< vertex 5026 is in 0 group
+< vertex 5027 is in 0 group
+---
+> vertex 5026 is in 1 group
+> vertex 5027 is in 1 group
+15530c15530
+< vertex 5030 is in 1 group
+---
+> vertex 5030 is in 0 group
+15532c15532
+< vertex 5032 is in 1 group
+---
+> vertex 5032 is in 0 group
+15536c15536
+< vertex 5036 is in 0 group
+---
+> vertex 5036 is in 1 group
+15543c15543
+< vertex 5043 is in 1 group
+---
+> vertex 5043 is in 0 group
+15549c15549
+< vertex 5049 is in 0 group
+---
+> vertex 5049 is in 1 group
+15559c15559
+< vertex 5059 is in 1 group
+---
+> vertex 5059 is in 0 group
+15567c15567
+< vertex 5067 is in 0 group
+---
+> vertex 5067 is in 1 group
+15570c15570
+< vertex 5070 is in 1 group
+---
+> vertex 5070 is in 0 group
+15574c15574
+< vertex 5074 is in 0 group
+---
+> vertex 5074 is in 1 group
+15581c15581
+< vertex 5081 is in 0 group
+---
+> vertex 5081 is in 1 group
+15588c15588
+< vertex 5088 is in 1 group
+---
+> vertex 5088 is in 0 group
+15592c15592
+< vertex 5092 is in 0 group
+---
+> vertex 5092 is in 1 group
+15596c15596
+< vertex 5096 is in 0 group
+---
+> vertex 5096 is in 1 group
+15599c15599
+< vertex 5099 is in 1 group
+---
+> vertex 5099 is in 0 group
+15603c15603
+< vertex 5103 is in 0 group
+---
+> vertex 5103 is in 1 group
+15606,15607c15606,15607
+< vertex 5106 is in 1 group
+< vertex 5107 is in 0 group
+---
+> vertex 5106 is in 0 group
+> vertex 5107 is in 1 group
+15621c15621
+< vertex 5121 is in 0 group
+---
+> vertex 5121 is in 1 group
+15625c15625
+< vertex 5125 is in 0 group
+---
+> vertex 5125 is in 1 group
+15634,15635c15634,15635
+< vertex 5134 is in 1 group
+< vertex 5135 is in 0 group
+---
+> vertex 5134 is in 0 group
+> vertex 5135 is in 1 group
+15639c15639
+< vertex 5139 is in 0 group
+---
+> vertex 5139 is in 1 group
+15646c15646
+< vertex 5146 is in 1 group
+---
+> vertex 5146 is in 0 group
+15652c15652
+< vertex 5152 is in 1 group
+---
+> vertex 5152 is in 0 group
+15660c15660
+< vertex 5160 is in 1 group
+---
+> vertex 5160 is in 0 group
+15679c15679
+< vertex 5179 is in 0 group
+---
+> vertex 5179 is in 1 group
+15686c15686
+< vertex 5186 is in 0 group
+---
+> vertex 5186 is in 1 group
+15689c15689
+< vertex 5189 is in 1 group
+---
+> vertex 5189 is in 0 group
+15704c15704
+< vertex 5204 is in 0 group
+---
+> vertex 5204 is in 1 group
+15707c15707
+< vertex 5207 is in 1 group
+---
+> vertex 5207 is in 0 group
+15714c15714
+< vertex 5214 is in 1 group
+---
+> vertex 5214 is in 0 group
+15718c15718
+< vertex 5218 is in 0 group
+---
+> vertex 5218 is in 1 group
+15725c15725
+< vertex 5225 is in 1 group
+---
+> vertex 5225 is in 0 group
+15736c15736
+< vertex 5236 is in 1 group
+---
+> vertex 5236 is in 0 group
+15740c15740
+< vertex 5240 is in 0 group
+---
+> vertex 5240 is in 1 group
+15747c15747
+< vertex 5247 is in 1 group
+---
+> vertex 5247 is in 0 group
+15762c15762
+< vertex 5262 is in 0 group
+---
+> vertex 5262 is in 1 group
+15765,15766c15765,15766
+< vertex 5265 is in 1 group
+< vertex 5266 is in 1 group
+---
+> vertex 5265 is in 0 group
+> vertex 5266 is in 0 group
+15769c15769
+< vertex 5269 is in 0 group
+---
+> vertex 5269 is in 1 group
+15780c15780
+< vertex 5280 is in 0 group
+---
+> vertex 5280 is in 1 group
+15787c15787
+< vertex 5287 is in 0 group
+---
+> vertex 5287 is in 1 group
+15798c15798
+< vertex 5298 is in 0 group
+---
+> vertex 5298 is in 1 group
+15802c15802
+< vertex 5302 is in 0 group
+---
+> vertex 5302 is in 1 group
+15808c15808
+< vertex 5308 is in 1 group
+---
+> vertex 5308 is in 0 group
+15812,15813c15812,15813
+< vertex 5312 is in 1 group
+< vertex 5313 is in 0 group
+---
+> vertex 5312 is in 0 group
+> vertex 5313 is in 1 group
+15816c15816
+< vertex 5316 is in 1 group
+---
+> vertex 5316 is in 0 group
+15828c15828
+< vertex 5328 is in 0 group
+---
+> vertex 5328 is in 1 group
+15835c15835
+< vertex 5335 is in 0 group
+---
+> vertex 5335 is in 1 group
+15839c15839
+< vertex 5339 is in 1 group
+---
+> vertex 5339 is in 0 group
+15841c15841
+< vertex 5341 is in 1 group
+---
+> vertex 5341 is in 0 group
+15843c15843
+< vertex 5343 is in 0 group
+---
+> vertex 5343 is in 1 group
+15845c15845
+< vertex 5345 is in 0 group
+---
+> vertex 5345 is in 1 group
+15849c15849
+< vertex 5349 is in 0 group
+---
+> vertex 5349 is in 1 group
+15854c15854
+< vertex 5354 is in 0 group
+---
+> vertex 5354 is in 1 group
+15877c15877
+< vertex 5377 is in 1 group
+---
+> vertex 5377 is in 0 group
+15885c15885
+< vertex 5385 is in 0 group
+---
+> vertex 5385 is in 1 group
+15893c15893
+< vertex 5393 is in 0 group
+---
+> vertex 5393 is in 1 group
+15896c15896
+< vertex 5396 is in 0 group
+---
+> vertex 5396 is in 1 group
+15904c15904
+< vertex 5404 is in 0 group
+---
+> vertex 5404 is in 1 group
+15910,15911c15910,15911
+< vertex 5410 is in 1 group
+< vertex 5411 is in 1 group
+---
+> vertex 5410 is in 0 group
+> vertex 5411 is in 0 group
+15915c15915
+< vertex 5415 is in 0 group
+---
+> vertex 5415 is in 1 group
+15928c15928
+< vertex 5428 is in 0 group
+---
+> vertex 5428 is in 1 group
+15953,15954c15953,15954
+< vertex 5453 is in 1 group
+< vertex 5454 is in 0 group
+---
+> vertex 5453 is in 0 group
+> vertex 5454 is in 1 group
+15957c15957
+< vertex 5457 is in 0 group
+---
+> vertex 5457 is in 1 group
+15979c15979
+< vertex 5479 is in 0 group
+---
+> vertex 5479 is in 1 group
+15987c15987
+< vertex 5487 is in 0 group
+---
+> vertex 5487 is in 1 group
+15989c15989
+< vertex 5489 is in 1 group
+---
+> vertex 5489 is in 0 group
+16035,16036c16035,16036
+< vertex 5535 is in 1 group
+< vertex 5536 is in 1 group
+---
+> vertex 5535 is in 0 group
+> vertex 5536 is in 0 group
+16040c16040
+< vertex 5540 is in 1 group
+---
+> vertex 5540 is in 0 group
+16048c16048
+< vertex 5548 is in 1 group
+---
+> vertex 5548 is in 0 group
+16051c16051
+< vertex 5551 is in 1 group
+---
+> vertex 5551 is in 0 group
+16059c16059
+< vertex 5559 is in 1 group
+---
+> vertex 5559 is in 0 group
+16094c16094
+< vertex 5594 is in 1 group
+---
+> vertex 5594 is in 0 group
+16105c16105
+< vertex 5605 is in 1 group
+---
+> vertex 5605 is in 0 group
+16113c16113
+< vertex 5613 is in 1 group
+---
+> vertex 5613 is in 0 group
+16137c16137
+< vertex 5637 is in 1 group
+---
+> vertex 5637 is in 0 group
+16144c16144
+< vertex 5644 is in 0 group
+---
+> vertex 5644 is in 1 group
+16149c16149
+< vertex 5649 is in 0 group
+---
+> vertex 5649 is in 1 group
+16155c16155
+< vertex 5655 is in 0 group
+---
+> vertex 5655 is in 1 group
+16159,16160c16159,16160
+< vertex 5659 is in 1 group
+< vertex 5660 is in 1 group
+---
+> vertex 5659 is in 0 group
+> vertex 5660 is in 0 group
+16174c16174
+< vertex 5674 is in 1 group
+---
+> vertex 5674 is in 0 group
+16179,16180c16179,16180
+< vertex 5679 is in 1 group
+< vertex 5680 is in 0 group
+---
+> vertex 5679 is in 0 group
+> vertex 5680 is in 1 group
+16222c16222
+< vertex 5722 is in 1 group
+---
+> vertex 5722 is in 0 group
+16226c16226
+< vertex 5726 is in 1 group
+---
+> vertex 5726 is in 0 group
+16229c16229
+< vertex 5729 is in 0 group
+---
+> vertex 5729 is in 1 group
+16232c16232
+< vertex 5732 is in 0 group
+---
+> vertex 5732 is in 1 group
+16237,16239c16237,16239
+< vertex 5737 is in 1 group
+< vertex 5738 is in 0 group
+< vertex 5739 is in 0 group
+---
+> vertex 5737 is in 0 group
+> vertex 5738 is in 1 group
+> vertex 5739 is in 1 group
+16254,16255c16254,16255
+< vertex 5754 is in 1 group
+< vertex 5755 is in 1 group
+---
+> vertex 5754 is in 0 group
+> vertex 5755 is in 0 group
+16258c16258
+< vertex 5758 is in 1 group
+---
+> vertex 5758 is in 0 group
+16261c16261
+< vertex 5761 is in 1 group
+---
+> vertex 5761 is in 0 group
+16289c16289
+< vertex 5789 is in 0 group
+---
+> vertex 5789 is in 1 group
+16324,16325c16324,16325
+< vertex 5824 is in 0 group
+< vertex 5825 is in 0 group
+---
+> vertex 5824 is in 1 group
+> vertex 5825 is in 1 group
+16327c16327
+< vertex 5827 is in 0 group
+---
+> vertex 5827 is in 1 group
+16333c16333
+< vertex 5833 is in 0 group
+---
+> vertex 5833 is in 1 group
+16335,16336c16335,16336
+< vertex 5835 is in 0 group
+< vertex 5836 is in 0 group
+---
+> vertex 5835 is in 1 group
+> vertex 5836 is in 1 group
+16339,16340c16339,16340
+< vertex 5839 is in 0 group
+< vertex 5840 is in 0 group
+---
+> vertex 5839 is in 1 group
+> vertex 5840 is in 1 group
+16343c16343
+< vertex 5843 is in 0 group
+---
+> vertex 5843 is in 1 group
+16347c16347
+< vertex 5847 is in 1 group
+---
+> vertex 5847 is in 0 group
+16364c16364
+< vertex 5864 is in 0 group
+---
+> vertex 5864 is in 1 group
+16370c16370
+< vertex 5870 is in 0 group
+---
+> vertex 5870 is in 1 group
+16374c16374
+< vertex 5874 is in 0 group
+---
+> vertex 5874 is in 1 group
+16381c16381
+< vertex 5881 is in 0 group
+---
+> vertex 5881 is in 1 group
+16383c16383
+< vertex 5883 is in 0 group
+---
+> vertex 5883 is in 1 group
+16396c16396
+< vertex 5896 is in 0 group
+---
+> vertex 5896 is in 1 group
+16399c16399
+< vertex 5899 is in 1 group
+---
+> vertex 5899 is in 0 group
+16401c16401
+< vertex 5901 is in 0 group
+---
+> vertex 5901 is in 1 group
+16403,16404c16403,16404
+< vertex 5903 is in 1 group
+< vertex 5904 is in 0 group
+---
+> vertex 5903 is in 0 group
+> vertex 5904 is in 1 group
+16408,16409c16408,16409
+< vertex 5908 is in 0 group
+< vertex 5909 is in 0 group
+---
+> vertex 5908 is in 1 group
+> vertex 5909 is in 1 group
+16412c16412
+< vertex 5912 is in 0 group
+---
+> vertex 5912 is in 1 group
+16426c16426
+< vertex 5926 is in 1 group
+---
+> vertex 5926 is in 0 group
+16447,16448c16447,16448
+< vertex 5947 is in 0 group
+< vertex 5948 is in 0 group
+---
+> vertex 5947 is in 1 group
+> vertex 5948 is in 1 group
+16450c16450
+< vertex 5950 is in 1 group
+---
+> vertex 5950 is in 0 group
+16455c16455
+< vertex 5955 is in 1 group
+---
+> vertex 5955 is in 0 group
+16461c16461
+< vertex 5961 is in 1 group
+---
+> vertex 5961 is in 0 group
+16463c16463
+< vertex 5963 is in 1 group
+---
+> vertex 5963 is in 0 group
+16471c16471
+< vertex 5971 is in 1 group
+---
+> vertex 5971 is in 0 group
+16473c16473
+< vertex 5973 is in 1 group
+---
+> vertex 5973 is in 0 group
+16479,16480c16479,16480
+< vertex 5979 is in 1 group
+< vertex 5980 is in 1 group
+---
+> vertex 5979 is in 0 group
+> vertex 5980 is in 0 group
+16482c16482
+< vertex 5982 is in 1 group
+---
+> vertex 5982 is in 0 group
+16485c16485
+< vertex 5985 is in 0 group
+---
+> vertex 5985 is in 1 group
+16497c16497
+< vertex 5997 is in 1 group
+---
+> vertex 5997 is in 0 group
+16504,16505c16504,16505
+< vertex 6004 is in 0 group
+< vertex 6005 is in 0 group
+---
+> vertex 6004 is in 1 group
+> vertex 6005 is in 1 group
+16507c16507
+< vertex 6007 is in 0 group
+---
+> vertex 6007 is in 1 group
+16513,16516c16513,16516
+< vertex 6013 is in 0 group
+< vertex 6014 is in 0 group
+< vertex 6015 is in 0 group
+< vertex 6016 is in 0 group
+---
+> vertex 6013 is in 1 group
+> vertex 6014 is in 1 group
+> vertex 6015 is in 1 group
+> vertex 6016 is in 1 group
+16518c16518
+< vertex 6018 is in 0 group
+---
+> vertex 6018 is in 1 group
+16520,16525c16520,16525
+< vertex 6020 is in 0 group
+< vertex 6021 is in 0 group
+< vertex 6022 is in 0 group
+< vertex 6023 is in 0 group
+< vertex 6024 is in 0 group
+< vertex 6025 is in 0 group
+---
+> vertex 6020 is in 1 group
+> vertex 6021 is in 1 group
+> vertex 6022 is in 1 group
+> vertex 6023 is in 1 group
+> vertex 6024 is in 1 group
+> vertex 6025 is in 1 group
+16528c16528
+< vertex 6028 is in 0 group
+---
+> vertex 6028 is in 1 group
+16530c16530
+< vertex 6030 is in 0 group
+---
+> vertex 6030 is in 1 group
+16532c16532
+< vertex 6032 is in 0 group
+---
+> vertex 6032 is in 1 group
+16534c16534
+< vertex 6034 is in 0 group
+---
+> vertex 6034 is in 1 group
+16537,16540c16537,16540
+< vertex 6037 is in 0 group
+< vertex 6038 is in 0 group
+< vertex 6039 is in 0 group
+< vertex 6040 is in 0 group
+---
+> vertex 6037 is in 1 group
+> vertex 6038 is in 1 group
+> vertex 6039 is in 1 group
+> vertex 6040 is in 1 group
+16542c16542
+< vertex 6042 is in 0 group
+---
+> vertex 6042 is in 1 group
+16549c16549
+< vertex 6049 is in 1 group
+---
+> vertex 6049 is in 0 group
+16552,16553c16552,16553
+< vertex 6052 is in 0 group
+< vertex 6053 is in 0 group
+---
+> vertex 6052 is in 1 group
+> vertex 6053 is in 1 group
+16555,16557c16555,16557
+< vertex 6055 is in 0 group
+< vertex 6056 is in 0 group
+< vertex 6057 is in 0 group
+---
+> vertex 6055 is in 1 group
+> vertex 6056 is in 1 group
+> vertex 6057 is in 1 group
+16563,16564c16563,16564
+< vertex 6063 is in 0 group
+< vertex 6064 is in 0 group
+---
+> vertex 6063 is in 1 group
+> vertex 6064 is in 1 group
+16567c16567
+< vertex 6067 is in 0 group
+---
+> vertex 6067 is in 1 group
+16570,16571c16570,16571
+< vertex 6070 is in 0 group
+< vertex 6071 is in 0 group
+---
+> vertex 6070 is in 1 group
+> vertex 6071 is in 1 group
+16577,16585c16577,16585
+< vertex 6077 is in 0 group
+< vertex 6078 is in 0 group
+< vertex 6079 is in 0 group
+< vertex 6080 is in 0 group
+< vertex 6081 is in 0 group
+< vertex 6082 is in 0 group
+< vertex 6083 is in 0 group
+< vertex 6084 is in 0 group
+< vertex 6085 is in 0 group
+---
+> vertex 6077 is in 1 group
+> vertex 6078 is in 1 group
+> vertex 6079 is in 1 group
+> vertex 6080 is in 1 group
+> vertex 6081 is in 1 group
+> vertex 6082 is in 1 group
+> vertex 6083 is in 1 group
+> vertex 6084 is in 1 group
+> vertex 6085 is in 1 group
+16587,16589c16587,16589
+< vertex 6087 is in 0 group
+< vertex 6088 is in 0 group
+< vertex 6089 is in 0 group
+---
+> vertex 6087 is in 1 group
+> vertex 6088 is in 1 group
+> vertex 6089 is in 1 group
+16595,16597c16595,16597
+< vertex 6095 is in 0 group
+< vertex 6096 is in 0 group
+< vertex 6097 is in 0 group
+---
+> vertex 6095 is in 1 group
+> vertex 6096 is in 1 group
+> vertex 6097 is in 1 group
+16600c16600
+< vertex 6100 is in 0 group
+---
+> vertex 6100 is in 1 group
+16604c16604
+< vertex 6104 is in 0 group
+---
+> vertex 6104 is in 1 group
+16607c16607
+< vertex 6107 is in 0 group
+---
+> vertex 6107 is in 1 group
+16616c16616
+< vertex 6116 is in 0 group
+---
+> vertex 6116 is in 1 group
+16619,16620c16619,16620
+< vertex 6119 is in 0 group
+< vertex 6120 is in 0 group
+---
+> vertex 6119 is in 1 group
+> vertex 6120 is in 1 group
+16642,16644c16642,16644
+< vertex 6142 is in 0 group
+< vertex 6143 is in 0 group
+< vertex 6144 is in 0 group
+---
+> vertex 6142 is in 1 group
+> vertex 6143 is in 1 group
+> vertex 6144 is in 1 group
+16646,16647c16646,16647
+< vertex 6146 is in 0 group
+< vertex 6147 is in 0 group
+---
+> vertex 6146 is in 1 group
+> vertex 6147 is in 1 group
+16649c16649
+< vertex 6149 is in 0 group
+---
+> vertex 6149 is in 1 group
+16651,16655c16651,16655
+< vertex 6151 is in 0 group
+< vertex 6152 is in 0 group
+< vertex 6153 is in 0 group
+< vertex 6154 is in 0 group
+< vertex 6155 is in 0 group
+---
+> vertex 6151 is in 1 group
+> vertex 6152 is in 1 group
+> vertex 6153 is in 1 group
+> vertex 6154 is in 1 group
+> vertex 6155 is in 1 group
+16657,16658c16657,16658
+< vertex 6157 is in 0 group
+< vertex 6158 is in 0 group
+---
+> vertex 6157 is in 1 group
+> vertex 6158 is in 1 group
+16660,16661c16660,16661
+< vertex 6160 is in 0 group
+< vertex 6161 is in 0 group
+---
+> vertex 6160 is in 1 group
+> vertex 6161 is in 1 group
+16665c16665
+< vertex 6165 is in 0 group
+---
+> vertex 6165 is in 1 group
+16674,16675c16674,16675
+< vertex 6174 is in 0 group
+< vertex 6175 is in 0 group
+---
+> vertex 6174 is in 1 group
+> vertex 6175 is in 1 group
+16679c16679
+< vertex 6179 is in 0 group
+---
+> vertex 6179 is in 1 group
+16692c16692
+< vertex 6192 is in 0 group
+---
+> vertex 6192 is in 1 group
+16694c16694
+< vertex 6194 is in 0 group
+---
+> vertex 6194 is in 1 group
+16699,16700c16699,16700
+< vertex 6199 is in 0 group
+< vertex 6200 is in 0 group
+---
+> vertex 6199 is in 1 group
+> vertex 6200 is in 1 group
+16715c16715
+< vertex 6215 is in 0 group
+---
+> vertex 6215 is in 1 group
+16717c16717
+< vertex 6217 is in 0 group
+---
+> vertex 6217 is in 1 group
+16722c16722
+< vertex 6222 is in 0 group
+---
+> vertex 6222 is in 1 group
+16724c16724
+< vertex 6224 is in 0 group
+---
+> vertex 6224 is in 1 group
+16731c16731
+< vertex 6231 is in 1 group
+---
+> vertex 6231 is in 0 group
+16735c16735
+< vertex 6235 is in 0 group
+---
+> vertex 6235 is in 1 group
+16739c16739
+< vertex 6239 is in 0 group
+---
+> vertex 6239 is in 1 group
+16742c16742
+< vertex 6242 is in 0 group
+---
+> vertex 6242 is in 1 group
+16744,16749c16744,16749
+< vertex 6244 is in 0 group
+< vertex 6245 is in 0 group
+< vertex 6246 is in 0 group
+< vertex 6247 is in 0 group
+< vertex 6248 is in 0 group
+< vertex 6249 is in 0 group
+---
+> vertex 6244 is in 1 group
+> vertex 6245 is in 1 group
+> vertex 6246 is in 1 group
+> vertex 6247 is in 1 group
+> vertex 6248 is in 1 group
+> vertex 6249 is in 1 group
+16751,16754c16751,16754
+< vertex 6251 is in 0 group
+< vertex 6252 is in 0 group
+< vertex 6253 is in 0 group
+< vertex 6254 is in 0 group
+---
+> vertex 6251 is in 1 group
+> vertex 6252 is in 1 group
+> vertex 6253 is in 1 group
+> vertex 6254 is in 1 group
+16756,16758c16756,16758
+< vertex 6256 is in 0 group
+< vertex 6257 is in 0 group
+< vertex 6258 is in 0 group
+---
+> vertex 6256 is in 1 group
+> vertex 6257 is in 1 group
+> vertex 6258 is in 1 group
+16760,16770c16760,16770
+< vertex 6260 is in 0 group
+< vertex 6261 is in 0 group
+< vertex 6262 is in 0 group
+< vertex 6263 is in 0 group
+< vertex 6264 is in 0 group
+< vertex 6265 is in 0 group
+< vertex 6266 is in 0 group
+< vertex 6267 is in 0 group
+< vertex 6268 is in 0 group
+< vertex 6269 is in 0 group
+< vertex 6270 is in 0 group
+---
+> vertex 6260 is in 1 group
+> vertex 6261 is in 1 group
+> vertex 6262 is in 1 group
+> vertex 6263 is in 1 group
+> vertex 6264 is in 1 group
+> vertex 6265 is in 1 group
+> vertex 6266 is in 1 group
+> vertex 6267 is in 1 group
+> vertex 6268 is in 1 group
+> vertex 6269 is in 1 group
+> vertex 6270 is in 1 group
+16774,16776c16774,16776
+< vertex 6274 is in 0 group
+< vertex 6275 is in 0 group
+< vertex 6276 is in 0 group
+---
+> vertex 6274 is in 1 group
+> vertex 6275 is in 1 group
+> vertex 6276 is in 1 group
+16782,16783c16782,16783
+< vertex 6282 is in 1 group
+< vertex 6283 is in 1 group
+---
+> vertex 6282 is in 0 group
+> vertex 6283 is in 0 group
+16788,16797c16788,16797
+< vertex 6288 is in 0 group
+< vertex 6289 is in 0 group
+< vertex 6290 is in 0 group
+< vertex 6291 is in 0 group
+< vertex 6292 is in 0 group
+< vertex 6293 is in 0 group
+< vertex 6294 is in 0 group
+< vertex 6295 is in 0 group
+< vertex 6296 is in 0 group
+< vertex 6297 is in 0 group
+---
+> vertex 6288 is in 1 group
+> vertex 6289 is in 1 group
+> vertex 6290 is in 1 group
+> vertex 6291 is in 1 group
+> vertex 6292 is in 1 group
+> vertex 6293 is in 1 group
+> vertex 6294 is in 1 group
+> vertex 6295 is in 1 group
+> vertex 6296 is in 1 group
+> vertex 6297 is in 1 group
+16799,16801c16799,16801
+< vertex 6299 is in 0 group
+< vertex 6300 is in 0 group
+< vertex 6301 is in 0 group
+---
+> vertex 6299 is in 1 group
+> vertex 6300 is in 1 group
+> vertex 6301 is in 1 group
+16803,16804c16803,16804
+< vertex 6303 is in 0 group
+< vertex 6304 is in 0 group
+---
+> vertex 6303 is in 1 group
+> vertex 6304 is in 1 group
+16808,16813c16808,16813
+< vertex 6308 is in 0 group
+< vertex 6309 is in 0 group
+< vertex 6310 is in 0 group
+< vertex 6311 is in 0 group
+< vertex 6312 is in 0 group
+< vertex 6313 is in 0 group
+---
+> vertex 6308 is in 1 group
+> vertex 6309 is in 1 group
+> vertex 6310 is in 1 group
+> vertex 6311 is in 1 group
+> vertex 6312 is in 1 group
+> vertex 6313 is in 1 group
+16815,16816c16815,16816
+< vertex 6315 is in 0 group
+< vertex 6316 is in 0 group
+---
+> vertex 6315 is in 1 group
+> vertex 6316 is in 1 group
+16823c16823
+< vertex 6323 is in 0 group
+---
+> vertex 6323 is in 1 group
+16827,16829c16827,16829
+< vertex 6327 is in 0 group
+< vertex 6328 is in 0 group
+< vertex 6329 is in 0 group
+---
+> vertex 6327 is in 1 group
+> vertex 6328 is in 1 group
+> vertex 6329 is in 1 group
+16832c16832
+< vertex 6332 is in 0 group
+---
+> vertex 6332 is in 1 group
+16836,16837c16836,16837
+< vertex 6336 is in 0 group
+< vertex 6337 is in 0 group
+---
+> vertex 6336 is in 1 group
+> vertex 6337 is in 1 group
+16840,16841c16840,16841
+< vertex 6340 is in 0 group
+< vertex 6341 is in 0 group
+---
+> vertex 6340 is in 1 group
+> vertex 6341 is in 1 group
+16844c16844
+< vertex 6344 is in 0 group
+---
+> vertex 6344 is in 1 group
+16852,16854c16852,16854
+< vertex 6352 is in 0 group
+< vertex 6353 is in 0 group
+< vertex 6354 is in 0 group
+---
+> vertex 6352 is in 1 group
+> vertex 6353 is in 1 group
+> vertex 6354 is in 1 group
+16857c16857
+< vertex 6357 is in 0 group
+---
+> vertex 6357 is in 1 group
+16859,16860c16859,16860
+< vertex 6359 is in 0 group
+< vertex 6360 is in 0 group
+---
+> vertex 6359 is in 1 group
+> vertex 6360 is in 1 group
+16865,16866c16865,16866
+< vertex 6365 is in 0 group
+< vertex 6366 is in 0 group
+---
+> vertex 6365 is in 1 group
+> vertex 6366 is in 1 group
+16874,16885c16874,16885
+< vertex 6374 is in 0 group
+< vertex 6375 is in 0 group
+< vertex 6376 is in 0 group
+< vertex 6377 is in 0 group
+< vertex 6378 is in 0 group
+< vertex 6379 is in 0 group
+< vertex 6380 is in 0 group
+< vertex 6381 is in 0 group
+< vertex 6382 is in 0 group
+< vertex 6383 is in 0 group
+< vertex 6384 is in 0 group
+< vertex 6385 is in 0 group
+---
+> vertex 6374 is in 1 group
+> vertex 6375 is in 1 group
+> vertex 6376 is in 1 group
+> vertex 6377 is in 1 group
+> vertex 6378 is in 1 group
+> vertex 6379 is in 1 group
+> vertex 6380 is in 1 group
+> vertex 6381 is in 1 group
+> vertex 6382 is in 1 group
+> vertex 6383 is in 1 group
+> vertex 6384 is in 1 group
+> vertex 6385 is in 1 group
+16887,16889c16887,16889
+< vertex 6387 is in 0 group
+< vertex 6388 is in 0 group
+< vertex 6389 is in 0 group
+---
+> vertex 6387 is in 1 group
+> vertex 6388 is in 1 group
+> vertex 6389 is in 1 group
+16892,16893c16892,16893
+< vertex 6392 is in 0 group
+< vertex 6393 is in 0 group
+---
+> vertex 6392 is in 1 group
+> vertex 6393 is in 1 group
+16895,16898c16895,16898
+< vertex 6395 is in 0 group
+< vertex 6396 is in 0 group
+< vertex 6397 is in 0 group
+< vertex 6398 is in 1 group
+---
+> vertex 6395 is in 1 group
+> vertex 6396 is in 1 group
+> vertex 6397 is in 1 group
+> vertex 6398 is in 0 group
+16900,16903c16900,16903
+< vertex 6400 is in 0 group
+< vertex 6401 is in 0 group
+< vertex 6402 is in 0 group
+< vertex 6403 is in 0 group
+---
+> vertex 6400 is in 1 group
+> vertex 6401 is in 1 group
+> vertex 6402 is in 1 group
+> vertex 6403 is in 1 group
+16905c16905
+< vertex 6405 is in 0 group
+---
+> vertex 6405 is in 1 group
+16907,16908c16907,16908
+< vertex 6407 is in 0 group
+< vertex 6408 is in 0 group
+---
+> vertex 6407 is in 1 group
+> vertex 6408 is in 1 group
+16911,16912c16911,16912
+< vertex 6411 is in 0 group
+< vertex 6412 is in 0 group
+---
+> vertex 6411 is in 1 group
+> vertex 6412 is in 1 group
+16918c16918
+< vertex 6418 is in 0 group
+---
+> vertex 6418 is in 1 group
+16928c16928
+< vertex 6428 is in 1 group
+---
+> vertex 6428 is in 0 group
+16942c16942
+< vertex 6442 is in 0 group
+---
+> vertex 6442 is in 1 group
+16961c16961
+< vertex 6461 is in 0 group
+---
+> vertex 6461 is in 1 group
+16963,16964c16963,16964
+< vertex 6463 is in 0 group
+< vertex 6464 is in 0 group
+---
+> vertex 6463 is in 1 group
+> vertex 6464 is in 1 group
+16966,16968c16966,16968
+< vertex 6466 is in 1 group
+< vertex 6467 is in 1 group
+< vertex 6468 is in 0 group
+---
+> vertex 6466 is in 0 group
+> vertex 6467 is in 0 group
+> vertex 6468 is in 1 group
+16979c16979
+< vertex 6479 is in 0 group
+---
+> vertex 6479 is in 1 group
+16982,16983c16982,16983
+< vertex 6482 is in 0 group
+< vertex 6483 is in 0 group
+---
+> vertex 6482 is in 1 group
+> vertex 6483 is in 1 group
+16987c16987
+< vertex 6487 is in 0 group
+---
+> vertex 6487 is in 1 group
+16990c16990
+< vertex 6490 is in 0 group
+---
+> vertex 6490 is in 1 group
+16992c16992
+< vertex 6492 is in 0 group
+---
+> vertex 6492 is in 1 group
+16994c16994
+< vertex 6494 is in 0 group
+---
+> vertex 6494 is in 1 group
+16996,16997c16996,16997
+< vertex 6496 is in 0 group
+< vertex 6497 is in 0 group
+---
+> vertex 6496 is in 1 group
+> vertex 6497 is in 1 group
+17000c17000
+< vertex 6500 is in 0 group
+---
+> vertex 6500 is in 1 group
+17007,17010c17007,17010
+< vertex 6507 is in 0 group
+< vertex 6508 is in 0 group
+< vertex 6509 is in 0 group
+< vertex 6510 is in 0 group
+---
+> vertex 6507 is in 1 group
+> vertex 6508 is in 1 group
+> vertex 6509 is in 1 group
+> vertex 6510 is in 1 group
+17013c17013
+< vertex 6513 is in 0 group
+---
+> vertex 6513 is in 1 group
+17015c17015
+< vertex 6515 is in 0 group
+---
+> vertex 6515 is in 1 group
+17019,17021c17019,17021
+< vertex 6519 is in 0 group
+< vertex 6520 is in 0 group
+< vertex 6521 is in 0 group
+---
+> vertex 6519 is in 1 group
+> vertex 6520 is in 1 group
+> vertex 6521 is in 1 group
+17023c17023
+< vertex 6523 is in 0 group
+---
+> vertex 6523 is in 1 group
+17029c17029
+< vertex 6529 is in 0 group
+---
+> vertex 6529 is in 1 group
+17031c17031
+< vertex 6531 is in 0 group
+---
+> vertex 6531 is in 1 group
+17041c17041
+< vertex 6541 is in 0 group
+---
+> vertex 6541 is in 1 group
+17049c17049
+< vertex 6549 is in 1 group
+---
+> vertex 6549 is in 0 group
+17052c17052
+< vertex 6552 is in 1 group
+---
+> vertex 6552 is in 0 group
+17054,17055c17054,17055
+< vertex 6554 is in 1 group
+< vertex 6555 is in 1 group
+---
+> vertex 6554 is in 0 group
+> vertex 6555 is in 0 group
+17065c17065
+< vertex 6565 is in 1 group
+---
+> vertex 6565 is in 0 group
+17068,17069c17068,17069
+< vertex 6568 is in 1 group
+< vertex 6569 is in 1 group
+---
+> vertex 6568 is in 0 group
+> vertex 6569 is in 0 group
+17071,17073c17071,17073
+< vertex 6571 is in 1 group
+< vertex 6572 is in 1 group
+< vertex 6573 is in 1 group
+---
+> vertex 6571 is in 0 group
+> vertex 6572 is in 0 group
+> vertex 6573 is in 0 group
+17081,17082c17081,17082
+< vertex 6581 is in 1 group
+< vertex 6582 is in 1 group
+---
+> vertex 6581 is in 0 group
+> vertex 6582 is in 0 group
+17090c17090
+< vertex 6590 is in 1 group
+---
+> vertex 6590 is in 0 group
+17096c17096
+< vertex 6596 is in 1 group
+---
+> vertex 6596 is in 0 group
+17101c17101
+< vertex 6601 is in 1 group
+---
+> vertex 6601 is in 0 group
+17104,17105c17104,17105
+< vertex 6604 is in 1 group
+< vertex 6605 is in 1 group
+---
+> vertex 6604 is in 0 group
+> vertex 6605 is in 0 group
+17121,17124c17121,17124
+< vertex 6621 is in 1 group
+< vertex 6622 is in 1 group
+< vertex 6623 is in 1 group
+< vertex 6624 is in 1 group
+---
+> vertex 6621 is in 0 group
+> vertex 6622 is in 0 group
+> vertex 6623 is in 0 group
+> vertex 6624 is in 0 group
+17129c17129
+< vertex 6629 is in 1 group
+---
+> vertex 6629 is in 0 group
+17131,17135c17131,17135
+< vertex 6631 is in 0 group
+< vertex 6632 is in 1 group
+< vertex 6633 is in 0 group
+< vertex 6634 is in 1 group
+< vertex 6635 is in 1 group
+---
+> vertex 6631 is in 1 group
+> vertex 6632 is in 0 group
+> vertex 6633 is in 1 group
+> vertex 6634 is in 0 group
+> vertex 6635 is in 0 group
+17137c17137
+< vertex 6637 is in 1 group
+---
+> vertex 6637 is in 0 group
+17152,17154c17152,17154
+< vertex 6652 is in 1 group
+< vertex 6653 is in 1 group
+< vertex 6654 is in 1 group
+---
+> vertex 6652 is in 0 group
+> vertex 6653 is in 0 group
+> vertex 6654 is in 0 group
+17157,17158c17157,17158
+< vertex 6657 is in 1 group
+< vertex 6658 is in 1 group
+---
+> vertex 6657 is in 0 group
+> vertex 6658 is in 0 group
+17168,17169c17168,17169
+< vertex 6668 is in 1 group
+< vertex 6669 is in 1 group
+---
+> vertex 6668 is in 0 group
+> vertex 6669 is in 0 group
+17179c17179
+< vertex 6679 is in 1 group
+---
+> vertex 6679 is in 0 group
+17183,17184c17183,17184
+< vertex 6683 is in 1 group
+< vertex 6684 is in 1 group
+---
+> vertex 6683 is in 0 group
+> vertex 6684 is in 0 group
+17187c17187
+< vertex 6687 is in 1 group
+---
+> vertex 6687 is in 0 group
+17193,17194c17193,17194
+< vertex 6693 is in 1 group
+< vertex 6694 is in 1 group
+---
+> vertex 6693 is in 0 group
+> vertex 6694 is in 0 group
+17202,17204c17202,17204
+< vertex 6702 is in 1 group
+< vertex 6703 is in 1 group
+< vertex 6704 is in 1 group
+---
+> vertex 6702 is in 0 group
+> vertex 6703 is in 0 group
+> vertex 6704 is in 0 group
+17207c17207
+< vertex 6707 is in 1 group
+---
+> vertex 6707 is in 0 group
+17209,17211c17209,17211
+< vertex 6709 is in 1 group
+< vertex 6710 is in 1 group
+< vertex 6711 is in 1 group
+---
+> vertex 6709 is in 0 group
+> vertex 6710 is in 0 group
+> vertex 6711 is in 0 group
+17213,17215c17213,17215
+< vertex 6713 is in 1 group
+< vertex 6714 is in 1 group
+< vertex 6715 is in 1 group
+---
+> vertex 6713 is in 0 group
+> vertex 6714 is in 0 group
+> vertex 6715 is in 0 group
+17217c17217
+< vertex 6717 is in 1 group
+---
+> vertex 6717 is in 0 group
+17219c17219
+< vertex 6719 is in 1 group
+---
+> vertex 6719 is in 0 group
+17222c17222
+< vertex 6722 is in 1 group
+---
+> vertex 6722 is in 0 group
+17224c17224
+< vertex 6724 is in 1 group
+---
+> vertex 6724 is in 0 group
+17226c17226
+< vertex 6726 is in 1 group
+---
+> vertex 6726 is in 0 group
+17228,17232c17228,17232
+< vertex 6728 is in 1 group
+< vertex 6729 is in 1 group
+< vertex 6730 is in 1 group
+< vertex 6731 is in 1 group
+< vertex 6732 is in 1 group
+---
+> vertex 6728 is in 0 group
+> vertex 6729 is in 0 group
+> vertex 6730 is in 0 group
+> vertex 6731 is in 0 group
+> vertex 6732 is in 0 group
+17234,17239c17234,17239
+< vertex 6734 is in 1 group
+< vertex 6735 is in 1 group
+< vertex 6736 is in 1 group
+< vertex 6737 is in 1 group
+< vertex 6738 is in 1 group
+< vertex 6739 is in 1 group
+---
+> vertex 6734 is in 0 group
+> vertex 6735 is in 0 group
+> vertex 6736 is in 0 group
+> vertex 6737 is in 0 group
+> vertex 6738 is in 0 group
+> vertex 6739 is in 0 group
+17242,17245c17242,17245
+< vertex 6742 is in 1 group
+< vertex 6743 is in 1 group
+< vertex 6744 is in 1 group
+< vertex 6745 is in 1 group
+---
+> vertex 6742 is in 0 group
+> vertex 6743 is in 0 group
+> vertex 6744 is in 0 group
+> vertex 6745 is in 0 group
+17247c17247
+< vertex 6747 is in 1 group
+---
+> vertex 6747 is in 0 group
+17251,17254c17251,17254
+< vertex 6751 is in 1 group
+< vertex 6752 is in 1 group
+< vertex 6753 is in 1 group
+< vertex 6754 is in 1 group
+---
+> vertex 6751 is in 0 group
+> vertex 6752 is in 0 group
+> vertex 6753 is in 0 group
+> vertex 6754 is in 0 group
+17259c17259
+< vertex 6759 is in 1 group
+---
+> vertex 6759 is in 0 group
+17261,17263c17261,17263
+< vertex 6761 is in 1 group
+< vertex 6762 is in 1 group
+< vertex 6763 is in 1 group
+---
+> vertex 6761 is in 0 group
+> vertex 6762 is in 0 group
+> vertex 6763 is in 0 group
+17265,17267c17265,17267
+< vertex 6765 is in 1 group
+< vertex 6766 is in 1 group
+< vertex 6767 is in 1 group
+---
+> vertex 6765 is in 0 group
+> vertex 6766 is in 0 group
+> vertex 6767 is in 0 group
+17272,17273c17272,17273
+< vertex 6772 is in 1 group
+< vertex 6773 is in 1 group
+---
+> vertex 6772 is in 0 group
+> vertex 6773 is in 0 group
+17275c17275
+< vertex 6775 is in 1 group
+---
+> vertex 6775 is in 0 group
+17277c17277
+< vertex 6777 is in 1 group
+---
+> vertex 6777 is in 0 group
+17279,17280c17279,17280
+< vertex 6779 is in 1 group
+< vertex 6780 is in 1 group
+---
+> vertex 6779 is in 0 group
+> vertex 6780 is in 0 group
+17283,17287c17283,17287
+< vertex 6783 is in 1 group
+< vertex 6784 is in 1 group
+< vertex 6785 is in 1 group
+< vertex 6786 is in 1 group
+< vertex 6787 is in 1 group
+---
+> vertex 6783 is in 0 group
+> vertex 6784 is in 0 group
+> vertex 6785 is in 0 group
+> vertex 6786 is in 0 group
+> vertex 6787 is in 0 group
+17289c17289
+< vertex 6789 is in 1 group
+---
+> vertex 6789 is in 0 group
+17291,17292c17291,17292
+< vertex 6791 is in 1 group
+< vertex 6792 is in 1 group
+---
+> vertex 6791 is in 0 group
+> vertex 6792 is in 0 group
+17295,17296c17295,17296
+< vertex 6795 is in 1 group
+< vertex 6796 is in 1 group
+---
+> vertex 6795 is in 0 group
+> vertex 6796 is in 0 group
+17298,17299c17298,17299
+< vertex 6798 is in 1 group
+< vertex 6799 is in 1 group
+---
+> vertex 6798 is in 0 group
+> vertex 6799 is in 0 group
+17302c17302
+< vertex 6802 is in 1 group
+---
+> vertex 6802 is in 0 group
+17305,17307c17305,17307
+< vertex 6805 is in 0 group
+< vertex 6806 is in 1 group
+< vertex 6807 is in 1 group
+---
+> vertex 6805 is in 1 group
+> vertex 6806 is in 0 group
+> vertex 6807 is in 0 group
+17311c17311
+< vertex 6811 is in 1 group
+---
+> vertex 6811 is in 0 group
+17313c17313
+< vertex 6813 is in 1 group
+---
+> vertex 6813 is in 0 group
+17315c17315
+< vertex 6815 is in 1 group
+---
+> vertex 6815 is in 0 group
+17318c17318
+< vertex 6818 is in 1 group
+---
+> vertex 6818 is in 0 group
+17321,17322c17321,17322
+< vertex 6821 is in 1 group
+< vertex 6822 is in 1 group
+---
+> vertex 6821 is in 0 group
+> vertex 6822 is in 0 group
+17328,17329c17328,17329
+< vertex 6828 is in 1 group
+< vertex 6829 is in 1 group
+---
+> vertex 6828 is in 0 group
+> vertex 6829 is in 0 group
+17334,17336c17334,17336
+< vertex 6834 is in 1 group
+< vertex 6835 is in 1 group
+< vertex 6836 is in 1 group
+---
+> vertex 6834 is in 0 group
+> vertex 6835 is in 0 group
+> vertex 6836 is in 0 group
+17339c17339
+< vertex 6839 is in 0 group
+---
+> vertex 6839 is in 1 group
+17343c17343
+< vertex 6843 is in 1 group
+---
+> vertex 6843 is in 0 group
+17345c17345
+< vertex 6845 is in 1 group
+---
+> vertex 6845 is in 0 group
+17347c17347
+< vertex 6847 is in 1 group
+---
+> vertex 6847 is in 0 group
+17350c17350
+< vertex 6850 is in 1 group
+---
+> vertex 6850 is in 0 group
+17352c17352
+< vertex 6852 is in 1 group
+---
+> vertex 6852 is in 0 group
+17354c17354
+< vertex 6854 is in 1 group
+---
+> vertex 6854 is in 0 group
+17357,17358c17357,17358
+< vertex 6857 is in 1 group
+< vertex 6858 is in 1 group
+---
+> vertex 6857 is in 0 group
+> vertex 6858 is in 0 group
+18170c18170
+< vertex 7670 is in 1 group
+---
+> vertex 7670 is in 0 group
+18491c18491
+< vertex 7991 is in 1 group
+---
+> vertex 7991 is in 0 group
+18567c18567
+< vertex 8067 is in 1 group
+---
+> vertex 8067 is in 0 group
+18584c18584
+< vertex 8084 is in 1 group
+---
+> vertex 8084 is in 0 group
+18901c18901
+< vertex 8401 is in 1 group
+---
+> vertex 8401 is in 0 group
+19509c19509
+< vertex 9009 is in 1 group
+---
+> vertex 9009 is in 0 group
+20111c20111
+< vertex 9611 is in 1 group
+---
+> vertex 9611 is in 0 group

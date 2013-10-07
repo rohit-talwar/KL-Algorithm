@@ -1,0 +1,7 @@
+Current Implementation is most basic - Two way partition with vertices having same weight
+
+Vertices numbered from 1 to n
+
+TODO
+look for more efficient data structures
+Extend it for multiple partitions
